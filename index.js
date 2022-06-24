@@ -15,12 +15,38 @@ async function Pokemon() {
 	const findPokeType = pokeData.types[0].type.name; //Finds pokemon's type
 
 	console.log(pokeData);
+	console.log(findPokeType);
 
-	pokeCardId.id = findPokeType;
+	//Function that changes the sub type of the pokemon to the main type (Trading Card Game)
+	function changeToMainTypes() {
+		if (findPokeType === "normal" || findPokeType === "flying") {
+			return "colorless";
+		} else if (findPokeType === "dark" || findPokeType === "poison") {
+			return "darkness";
+		} else if (findPokeType === "rock" || findPokeType === "ground") {
+			return "fighting";
+		} else if (findPokeType === "bug") {
+			return "grass";
+		} else if (findPokeType === "electric") {
+			return "lightning";
+		} else if (findPokeType === "steel") {
+			return "metal";
+		} else if (findPokeType === "ghost" || findPokeType === "fairy") {
+			return "psychic";
+		} else if (findPokeType === "ice") {
+			return "water";
+		} else {
+			return findPokeType;
+		}
+	}
+	changeToMainTypes();
+	console.log(changeToMainTypes());
+
+	pokeCardId.id = changeToMainTypes(); //Changes the id of the div containing the pokemon types
 	pokeName.textContent = findPokeName; //Render pokemon's name
-	pokeType.innerHTML = "<img src='type_images/" + findPokeType + ".png'>"; //Render pokemon's type
+	pokeType.innerHTML = "<img src='main_types_images/" + changeToMainTypes() + ".png'>"; //Render pokemon's type
 	pokeSprite.innerHTML = "<img src=" + pokeData.sprites.front_default + ">"; //Render pokemon's sprite
-	pokeId.textContent = pokeData.id; //Render pokemon's id
+	pokeId.textContent = "#" + pokeData.id; //Render pokemon's id
 }
 
 Pokemon();
