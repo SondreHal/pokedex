@@ -15,7 +15,6 @@ async function Pokemon() {
 	const findPokeType = pokeData.types[0].type.name; //Finds pokemon's type
 
 	console.log(pokeData);
-	console.log(findPokeType);
 
 	//Function that changes the sub type of the pokemon to the main type (Trading Card Game)
 	function changeToMainTypes() {
@@ -40,6 +39,8 @@ async function Pokemon() {
 		}
 	}
 	changeToMainTypes();
+
+	console.log(findPokeType);
 	console.log(changeToMainTypes());
 
 	pokeCardId.id = changeToMainTypes(); //Changes the id of the div containing the pokemon types
