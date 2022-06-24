@@ -109,7 +109,211 @@ h3 img {
 	margin: auto 0;
 }
 
+#bug {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#dark {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#dragon {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#electric {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#fairy {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#fighting {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#fire {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#flying {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#ghost {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
 #grass {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#ground {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#ice {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#normal {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#poison {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#psychic {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#rock {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#steel {
+	background: linear-gradient(
+		-45deg,
+		#caeba5,
+		#93f028,
+		#caeba5,
+		#93f028,
+		#93f028,
+		#caeba5
+	);
+}
+
+#water {
 	background: linear-gradient(
 		-45deg,
 		#caeba5,
