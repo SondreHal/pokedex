@@ -1,7 +1,8 @@
+const pokeCardId = document.querySelector("#placeholder");
 const pokeName = document.querySelector(".pokename");
-const pokeId = document.querySelector(".pokeid");
-const pokeSprite = document.querySelector(".pokesprite");
 const pokeType = document.querySelector(".type");
+const pokeSprite = document.querySelector(".pokesprite");
+const pokeId = document.querySelector(".pokeid");
 
 //Function to fetch a pokemon's Name, Type, Sprite & ID based on a random number between 1-905
 async function Pokemon() {
@@ -15,6 +16,7 @@ async function Pokemon() {
 
 	console.log(pokeData);
 
+	pokeCardId.id = findPokeType;
 	pokeName.textContent = findPokeName; //Render pokemon's name
 	pokeType.innerHTML = "<img src='type_images/" + findPokeType + ".png'>"; //Render pokemon's type
 	pokeSprite.innerHTML = "<img src=" + pokeData.sprites.front_default + ">"; //Render pokemon's sprite
