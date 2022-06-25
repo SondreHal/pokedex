@@ -14,8 +14,6 @@ async function Pokemon() {
 		pokeData.name.charAt(0).toUpperCase() + pokeData.name.substring(1); //Finds pokemon's name and makes first letter uppercase
 	const findPokeType = pokeData.types[0].type.name; //Finds pokemon's type
 
-	console.log(pokeData);
-
 	//Function that changes the sub type of the pokemon to the main type (Trading Card Game)
 	function changeToMainTypes() {
 		if (findPokeType === "normal" || findPokeType === "flying") {
@@ -40,14 +38,17 @@ async function Pokemon() {
 	}
 	changeToMainTypes();
 
-	console.log(findPokeType);
-	console.log(changeToMainTypes());
-
 	pokeCardId.id = changeToMainTypes(); //Changes the id of the div containing the pokemon types
 	pokeName.textContent = findPokeName; //Render pokemon's name
 	pokeType.innerHTML = "<img src='main_types_images/" + changeToMainTypes() + ".png'>"; //Render pokemon's type
-	pokeSprite.innerHTML = "<img src=" + pokeData.sprites.front_default + ">"; //Render pokemon's sprite
+	pokeSprite.innerHTML =
+		"<img src=" + pokeData.sprites.other["official-artwork"].front_default + ">"; //Render pokemon's sprite
 	pokeId.textContent = "#" + pokeData.id; //Render pokemon's id
+
+	console.log(pokeData);
+
+	console.log("Sub Type: " + findPokeType);
+	console.log("Main Type: " + changeToMainTypes());
 }
 
 Pokemon();
