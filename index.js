@@ -12,43 +12,43 @@ async function Pokemon() {
 
 	const findPokeName =
 		pokeData.name.charAt(0).toUpperCase() + pokeData.name.substring(1); //Finds pokemon's name and makes first letter uppercase
-	const findPokeType = pokeData.types[0].type.name; //Finds pokemon's type
+	const findSubType = pokeData.types[0].type.name; //Finds pokemon's type
 
 	//Function that changes the sub type of the pokemon to the main type (Trading Card Game)
-	function changeToMainTypes() {
-		if (findPokeType === "normal" || findPokeType === "flying") {
+	function changeToMainType() {
+		if (findSubType === "normal" || findSubType === "flying") {
 			return "colorless";
-		} else if (findPokeType === "dark" || findPokeType === "poison") {
+		} else if (findSubType === "dark" || findSubType === "poison") {
 			return "darkness";
-		} else if (findPokeType === "rock" || findPokeType === "ground") {
+		} else if (findSubType === "rock" || findSubType === "ground") {
 			return "fighting";
-		} else if (findPokeType === "bug") {
+		} else if (findSubType === "bug") {
 			return "grass";
-		} else if (findPokeType === "electric") {
+		} else if (findSubType === "electric") {
 			return "lightning";
-		} else if (findPokeType === "steel") {
+		} else if (findSubType === "steel") {
 			return "metal";
-		} else if (findPokeType === "ghost" || findPokeType === "fairy") {
+		} else if (findSubType === "ghost" || findSubType === "fairy") {
 			return "psychic";
-		} else if (findPokeType === "ice") {
+		} else if (findSubType === "ice") {
 			return "water";
 		} else {
-			return findPokeType;
+			return findSubType;
 		}
 	}
-	changeToMainTypes();
+	changeToMainType();
 
-	pokeCardId.id = changeToMainTypes(); //Changes the id of the div containing the pokemon types
+	pokeCardId.id = changeToMainType(); //Changes the id of the div containing the pokemon types
 	pokeName.textContent = findPokeName; //Render pokemon's name
-	pokeType.innerHTML = "<img src='main_types_images/" + changeToMainTypes() + ".png'>"; //Render pokemon's type
+	pokeType.innerHTML = "<img src='main_types_images/" + changeToMainType() + ".png'>"; //Render pokemon's type
 	pokeSprite.innerHTML =
 		"<img src=" + pokeData.sprites.other["official-artwork"].front_default + ">"; //Render pokemon's sprite
 	pokeId.textContent = "#" + pokeData.id; //Render pokemon's id
 
 	console.log(pokeData);
 
-	console.log("Sub Type: " + findPokeType);
-	console.log("Main Type: " + changeToMainTypes());
+	console.log("Sub Type: " + findSubType);
+	console.log("Main Type: " + changeToMainType());
 }
 
 Pokemon();
