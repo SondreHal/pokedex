@@ -69,13 +69,16 @@ p {
 	display: flex;
 	flex-direction: column;
 	/*Box model stuff*/
-	width: 21.5em;
-	height: 30.5em;
+	/* width: 21.5em;
+	height: 30.5em; */
+	width: 420px;
+	height: 590px;
 	margin: 10px auto;
 	padding: 0;
-	border: 10px solid rgb(255, 215, 96);
-	border-radius: 8px;
-	background-color: grey;
+	border-radius: 25px;
+	/* border: 10px solid rgb(255, 215, 96);
+	border-radius: 8px; */
+	background-color: rgba(128, 128, 128, 0);
 }
 
 .flex {
@@ -85,24 +88,34 @@ p {
 	align-items: center;
 	justify-content: space-between;
 	/*Box model stuff*/
-	margin: 0 20px;
+	margin: 20px 20px 0;
+}
+
+.pokename {
+	margin-left: 85px;
 }
 
 img {
 	/*Display stuff*/
 	display: flex;
 	/*Box model stuff*/
-	height: 12.5rem;
+	height: 14.5rem;
 	margin: auto;
 }
 
 .pokesprite {
 	/*Box model stuff*/
-	height: 12.5rem;
-	border: 5px solid rgb(255, 215, 96);
-	background-color: rgb(94, 191, 239);
+	height: 14.5rem;
+	width: 349px;
+	/* background-color: rgb(94, 191, 239); */
 	/*Miscellaneous*/
-	margin-inline: 20px;
+	margin-inline: auto;
+	margin-top: 9.5px;
+}
+
+.pokeid {
+	margin-right: 20px;
+	margin-bottom: 18px;
 }
 
 button {
@@ -113,128 +126,155 @@ button {
 	font-weight: bold;
 }
 
-#colorless {
-	background: linear-gradient(
-		-45deg,
-		#ffffff,
-		#d3d3d3,
-		#ffffff,
-		#d3d3d3,
-		#d3d3d3,
-		#ffffff
-	);
+#colorless_basic {
+	background-image: url("main_types_card_templates/colorless_basic.png"),
+		linear-gradient(-45deg, #ffffff, #d3d3d3, #ffffff, #d3d3d3, #d3d3d3, #ffffff);
 }
 
-#darkness {
-	color: rgb(228, 228, 228);
-	background: linear-gradient(
-		-45deg,
-		#2f4d4b,
-		#142221,
-		#2f4d4b,
-		#142221,
-		#142221,
-		#2f4d4b
-	);
+#colorless_stage_1 {
+	background-image: url("main_types_card_templates/colorless_stage_1.png"),
+		linear-gradient(-45deg, #ffffff, #d3d3d3, #ffffff, #d3d3d3, #d3d3d3, #ffffff);
 }
 
-#darkness .type {
-	border-radius: 25px;
-	box-shadow: 0px 0px 6px 1px white;
+#colorless_stage_2 {
+	background-image: url("main_types_card_templates/colorless_stage_2.png"),
+		linear-gradient(-45deg, #ffffff, #d3d3d3, #ffffff, #d3d3d3, #d3d3d3, #ffffff);
 }
 
-#dragon {
-	background: linear-gradient(
-		-45deg,
-		#d8ff28,
-		#df9d25,
-		#d8ff28,
-		#df9d25,
-		#df9d25,
-		#d8ff28
-	);
+#darkness_basic {
+	background-image: url("main_types_card_templates/darkness_basic.png"),
+		linear-gradient(-45deg, #2f4d4b, #142221, #2f4d4b, #142221, #142221, #2f4d4b);
+	color: white;
 }
 
-#fighting {
-	background: linear-gradient(
-		-45deg,
-		#da9974,
-		#cc7c47,
-		#da9974,
-		#cc7c47,
-		#cc7c47,
-		#da9974
-	);
+#darkness_stage_1 {
+	background-image: url("main_types_card_templates/darkness_stage_1.png"),
+		linear-gradient(-45deg, #2f4d4b, #142221, #2f4d4b, #142221, #142221, #2f4d4b);
+	color: white;
 }
 
-#fire {
-	background: linear-gradient(
-		-45deg,
-		#ff9838,
-		#f05728,
-		#ff9838,
-		#f05728,
-		#f05728,
-		#ff9838
-	);
+#darkness_stage_2 {
+	background-image: url("main_types_card_templates/darkness_stage_2.png"),
+		linear-gradient(-45deg, #2f4d4b, #142221, #2f4d4b, #142221, #142221, #2f4d4b);
+	color: white;
 }
 
-#grass {
-	background: linear-gradient(
-		-45deg,
-		#ccff3e,
-		#85d826,
-		#ccff3e,
-		#85d826,
-		#85d826,
-		#ccff3e
-	);
+#dragon_basic {
+	background-image: url("main_types_card_templates/dragon_basic.png"),
+		linear-gradient(-45deg, #d8ff28, #df9d25, #d8ff28, #df9d25, #df9d25, #d8ff28);
 }
 
-#lightning {
-	background: linear-gradient(
-		-45deg,
-		#fff066,
-		#e4cd00,
-		#fff066,
-		#e4cd00,
-		#e4cd00,
-		#fff066
-	);
+#dragon_stage_1 {
+	background-image: url("main_types_card_templates/dragon_stage_1.png"),
+		linear-gradient(-45deg, #d8ff28, #df9d25, #d8ff28, #df9d25, #df9d25, #d8ff28);
 }
 
-#metal {
-	background: linear-gradient(
-		-45deg,
-		#d6d6d6,
-		#757575,
-		#d6d6d6,
-		#757575,
-		#757575,
-		#d6d6d6
-	);
+#dragon_stage_2 {
+	background-image: url("main_types_card_templates/dragon_stage_2.png"),
+		linear-gradient(-45deg, #d8ff28, #df9d25, #d8ff28, #df9d25, #df9d25, #d8ff28);
 }
 
-#psychic {
-	background: linear-gradient(
-		-45deg,
-		#e09ac9,
-		#914fa1,
-		#e09ac9,
-		#914fa1,
-		#914fa1,
-		#e09ac9
-	);
+#fighting_basic {
+	background-image: url("main_types_card_templates/fighting_basic.png"),
+		linear-gradient(-45deg, #da9974, #cc7c47, #da9974, #cc7c47, #cc7c47, #da9974);
 }
 
-#water {
-	background: linear-gradient(
-		-45deg,
-		#82e9e9,
-		#28c8f0,
-		#82e9e9,
-		#28c8f0,
-		#28c8f0,
-		#82e9e9
-	);
+#fighting_stage_1 {
+	background-image: url("main_types_card_templates/fighting_stage_1.png"),
+		linear-gradient(-45deg, #da9974, #cc7c47, #da9974, #cc7c47, #cc7c47, #da9974);
+}
+
+#fighting_stage_2 {
+	background-image: url("main_types_card_templates/fighting_stage_2.png"),
+		linear-gradient(-45deg, #da9974, #cc7c47, #da9974, #cc7c47, #cc7c47, #da9974);
+}
+
+#fire_basic {
+	background-image: url("main_types_card_templates/fire_basic.png"),
+		linear-gradient(-45deg, #ff9838, #f05728, #ff9838, #f05728, #f05728, #ff9838);
+}
+
+#fire_stage_1 {
+	background-image: url("main_types_card_templates/fire_stage_1.png"),
+		linear-gradient(-45deg, #ff9838, #f05728, #ff9838, #f05728, #f05728, #ff9838);
+}
+
+#fire_stage_2 {
+	background-image: url("main_types_card_templates/fire_stage_2.png"),
+		linear-gradient(-45deg, #ff9838, #f05728, #ff9838, #f05728, #f05728, #ff9838);
+}
+
+#grass_basic {
+	background-image: url("main_types_card_templates/grass_basic.png"),
+		linear-gradient(-45deg, #ccff3e, #85d826, #ccff3e, #85d826, #85d826, #ccff3e);
+}
+
+#grass_stage_1 {
+	background-image: url("main_types_card_templates/grass_stage_1.png"),
+		linear-gradient(-45deg, #ccff3e, #85d826, #ccff3e, #85d826, #85d826, #ccff3e);
+}
+
+#grass_stage_2 {
+	background-image: url("main_types_card_templates/grass_stage_2.png"),
+		linear-gradient(-45deg, #ccff3e, #85d826, #ccff3e, #85d826, #85d826, #ccff3e);
+}
+
+#lightning_basic {
+	background-image: url("main_types_card_templates/lightning_basic.png"),
+		linear-gradient(-45deg, #fff066, #e4cd00, #fff066, #e4cd00, #e4cd00, #fff066);
+}
+
+#lightning_stage_1 {
+	background-image: url("main_types_card_templates/lightning_stage_1.png"),
+		linear-gradient(-45deg, #fff066, #e4cd00, #fff066, #e4cd00, #e4cd00, #fff066);
+}
+
+#lightning_stage_2 {
+	background-image: url("main_types_card_templates/lightning_stage_2.png"),
+		linear-gradient(-45deg, #fff066, #e4cd00, #fff066, #e4cd00, #e4cd00, #fff066);
+}
+
+#metal_basic {
+	background-image: url("main_types_card_templates/metal_basic.png"),
+		linear-gradient(-45deg, #d6d6d6, #757575, #d6d6d6, #757575, #757575, #d6d6d6);
+}
+
+#metal_stage_1 {
+	background-image: url("main_types_card_templates/metal_stage_1.png"),
+		linear-gradient(-45deg, #d6d6d6, #757575, #d6d6d6, #757575, #757575, #d6d6d6);
+}
+
+#metal_stage_2 {
+	background-image: url("main_types_card_templates/metal_stage_2.png"),
+		linear-gradient(-45deg, #d6d6d6, #757575, #d6d6d6, #757575, #757575, #d6d6d6);
+}
+
+#psychic_basic {
+	background-image: url("main_types_card_templates/psychic_basic.png"),
+		linear-gradient(-45deg, #e09ac9, #914fa1, #e09ac9, #914fa1, #914fa1, #e09ac9);
+}
+
+#psychic_stage_1 {
+	background-image: url("main_types_card_templates/psychic_stage_1.png"),
+		linear-gradient(-45deg, #e09ac9, #914fa1, #e09ac9, #914fa1, #914fa1, #e09ac9);
+}
+
+#psychic_stage_2 {
+	background-image: url("main_types_card_templates/psychic_stage_2.png"),
+		linear-gradient(-45deg, #e09ac9, #914fa1, #e09ac9, #914fa1, #914fa1, #e09ac9);
+}
+
+#water_basic {
+	background-image: url("main_types_card_templates/water_basic.png"),
+		linear-gradient(-45deg, #82e9e9, #28c8f0, #82e9e9, #28c8f0, #28c8f0, #82e9e9);
+}
+
+#water_stage_1 {
+	background-image: url("main_types_card_templates/water_stage_1.png"),
+		linear-gradient(-45deg, #82e9e9, #28c8f0, #82e9e9, #28c8f0, #28c8f0, #82e9e9);
+}
+
+#water_stage_2 {
+	background-image: url("main_types_card_templates/water_stage_2.png"),
+		linear-gradient(-45deg, #82e9e9, #28c8f0, #82e9e9, #28c8f0, #28c8f0, #82e9e9);
 }
