@@ -1,74 +1,73 @@
 const pokeCardId = document.querySelector("#placeholder");
 const pokeName = document.querySelector(".pokename");
-const pokeType = document.querySelector(".type");
 const pokeSprite = document.querySelector(".pokesprite");
 const pokeId = document.querySelector(".pokeid");
+const previousEvolution = document.querySelector(".previous-evolution");
 
-//Function to fetch a pokemon's Name, Type, Sprite & ID based on a random number between 1-905
+//Function to fetch a pokemon's Name, Type, Sprite & ID based on a random number between 1-151
 async function Pokemon() {
-	//Random number 1-905
-	const randomNumber = Math.floor(Math.random() * 905 + 1);
+	//Random number 1-151
+	const randomNumber = Math.floor(Math.random() * 151 + 1);
 
-	//Fetch pokemonAPI
-	const fetchPokemonData = await fetch(
-		"https://pokeapi.co/api/v2/pokemon/" + randomNumber
-	);
-	//Stringify pokemonAPI
-	const pokeData = await fetchPokemonData.json();
+	//Fetches JSON file with pokemon information
+	const fetchNew = await fetch("pokemon.dpo");
+	const newData = await fetchNew.json();
 
-	//Fetch pokemonSpeciesAPI
-	const fetchPokeSpecies = await fetch(
-		"https://pokeapi.co/api/v2/pokemon-species/" + randomNumber
-	);
-	//Stringify pokemonSpeciesAPI
-	const pokeSpecies = await fetchPokeSpecies.json();
+	console.log(newData.sheets[0].lines[randomNumber]);
 
-	//Fetch evolutionChainAPI
-	const fetchEvoChain = await fetch(pokeSpecies.evolution_chain.url);
-	//Stringify evolutionChainAPI
-	const evoChain = await fetchEvoChain.json();
-
-	//Finds pokemon's name and makes first letter uppercase
-	const findPokeName =
-		pokeData.name.charAt(0).toUpperCase() + pokeData.name.substring(1);
+	//Finds pokemon's name
+	const findPokeName = newData.sheets[0].lines[randomNumber].info.name;
 	//Finds pokemon's type
-	const findSubType = pokeData.types[0].type.name;
+	const findSubType1 = newData.sheets[0].lines[randomNumber].info.type_1;
+	const findSubType2 = newData.sheets[0].lines[randomNumber].info.type_2;
 
 	//Function that changes the sub type of the pokemon to the main type (Trading Card Game)
 	function changeToMainType() {
-		if (findSubType === "normal" || findSubType === "flying") {
+		if (findSubType1 === "normal" || findSubType1 === "flying") {
 			return "colorless";
-		} else if (findSubType === "dark" || findSubType === "poison") {
+		} else if (findSubType1 === "dark" || findSubType1 === "poison") {
 			return "darkness";
-		} else if (findSubType === "rock" || findSubType === "ground") {
+		} else if (findSubType1 === "rock" || findSubType1 === "ground") {
 			return "fighting";
-		} else if (findSubType === "bug") {
+		} else if (findSubType1 === "bug") {
 			return "grass";
-		} else if (findSubType === "electric") {
+		} else if (findSubType1 === "electric") {
 			return "lightning";
-		} else if (findSubType === "steel") {
+		} else if (findSubType1 === "steel") {
 			return "metal";
-		} else if (findSubType === "ghost" || findSubType === "fairy") {
+		} else if (findSubType1 === "ghost" || findSubType1 === "fairy") {
 			return "psychic";
-		} else if (findSubType === "ice") {
+		} else if (findSubType1 === "ice") {
 			return "water";
 		} else {
-			return findSubType;
+			return findSubType1;
 		}
 	}
 	changeToMainType();
 
 	//Function to figure out a pokemon's stage in an evolution if it has any, and returns it
 	function evolve() {
-		if (evoChain.chain.species.name === pokeData.name) {
+		if (newData.sheets[0].lines[randomNumber].info.stage === "1") {
 			return "_basic";
-		} else if (evoChain.chain.evolves_to[0].species.name === pokeData.name) {
+		} else if (newData.sheets[0].lines[randomNumber].info.stage === "2") {
 			return "_stage_1";
 		} else {
 			return "_stage_2";
 		}
 	}
 	evolve();
+
+	function renderPreviousEvolution() {
+		if (newData.sheets[0].lines[randomNumber].info.stage > 1) {
+			previousEvolution.innerHTML =
+				"<img src=https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/" +
+				(randomNumber - 1) +
+				".png>";
+		} else {
+			previousEvolution.innerHTML = "";
+		}
+	}
+	renderPreviousEvolution();
 
 	//Changes the id of the div containing the pokemon types
 	pokeCardId.id = changeToMainType() + evolve();
@@ -81,11 +80,10 @@ async function Pokemon() {
 		randomNumber +
 		".png>";
 	//Render pokemon's id
-	pokeId.textContent = "#" + pokeData.id;
+	pokeId.textContent = "#" + newData.sheets[0].lines[randomNumber].id;
 
-	pokeSprite.innerHTML;
-
-	console.log("Sub Type: " + findSubType);
+	console.log("Sub Type 1: " + findSubType1);
+	console.log("Sub Type 2: " + findSubType2);
 	console.log("Main Type: " + changeToMainType());
 }
 

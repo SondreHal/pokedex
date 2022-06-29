@@ -1,0 +1,3268 @@
+{
+    "sheets": [
+        {
+            "name": "Pokemon IDs",
+            "description": "IDs",
+            "displayColumn": "id",
+            "guid": "39dee02f-3bfa-4aee-886e-34d3e79e17c9",
+            "columns": [
+                {
+                    "typeStr": "props",
+                    "guid": "4d049dd2-b9ae-44ee-a87c-9acba501a538",
+                    "name": "info",
+                    "description": "new properties field",
+                    "sheet": "03fdbb08-a680-4713-8b54-3b3ad8f6061b",
+                    "defaultValue": {},
+                    "iconName": "newProps",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text"
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "guid": "e5348f4c-448b-4ff5-a1ef-01be7aa29c99",
+                    "id": "0",
+                    "info": {
+                        "guid": "80972202-3f89-4645-b782-23685f14c43e",
+                        "name": "",
+                        "stage": "",
+                        "evolves_to": "",
+                        "type_1": "",
+                        "type_2": "",
+                        "evolved_from": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "2911cdf2-2d77-42d1-ba3d-89e7087a91ec",
+                    "id": "1",
+                    "info": {
+                        "guid": "d232af8e-3ee2-450c-b4e7-d7c6e78eeebc",
+                        "name": "Bulbasaur",
+                        "stage": "1",
+                        "evolves_to": "Ivysaur",
+                        "type_1": "grass",
+                        "type_2": "poison",
+                        "evolved_from": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "97876c71-4247-49b1-a577-e4d065ebd298",
+                    "id": "2",
+                    "info": {
+                        "guid": "afdff1f9-9f70-493c-91b7-55549004b7aa",
+                        "name": "Ivysaur",
+                        "stage": "2",
+                        "evolves_to": "Venusaur",
+                        "type_1": "grass",
+                        "type_2": "poison",
+                        "evolved_from": "Bulbasaur",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "b0da4ef3-1c8b-439d-a033-555bf5d43444",
+                    "id": "3",
+                    "info": {
+                        "guid": "b832d928-3a5b-42e7-85b9-9191362c14ff",
+                        "name": "Venusaur",
+                        "stage": "3",
+                        "evolves_to": "",
+                        "type_1": "grass",
+                        "type_2": "poison",
+                        "evolved_from": "Ivysaur",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "3e34fda0-325c-434c-8ec4-8da586871b3f",
+                    "id": "4",
+                    "info": {
+                        "guid": "75f7790f-3216-4724-bb74-aa04c3b3030e",
+                        "name": "Charmander",
+                        "stage": "1",
+                        "evolves_to": "Charmeleon",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "evolved_from": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "734507d8-9d76-41e4-884e-7e1a0f3a3221",
+                    "id": "5",
+                    "info": {
+                        "guid": "1c0a6bfb-cf3a-480c-acab-53d1a6fd46e2",
+                        "name": "Charmeleon",
+                        "stage": "2",
+                        "evolves_to": "Charizard",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "evolved_from": "Charmander",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "a3f83ea1-3ab9-4b0d-9c12-b855eddb6005",
+                    "id": "6",
+                    "info": {
+                        "guid": "d5c63caf-15f1-4346-9eb1-27d065ea0e99",
+                        "name": "Charizard",
+                        "stage": "3",
+                        "evolves_to": "",
+                        "type_1": "fire",
+                        "type_2": "flying",
+                        "evolved_from": "Charmeleon",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "a5893172-9906-4cdc-8a2e-0a0e158251b0",
+                    "id": "7",
+                    "info": {
+                        "guid": "b09408c0-a654-4d27-9d86-4bdb48f8cf69",
+                        "name": "Squirlte",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Wartortle",
+                        "type_1": "water",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "af666dfa-3809-4796-a5c9-d9613a57ca72",
+                    "id": "8",
+                    "info": {
+                        "guid": "b3e532c5-a475-44a2-94e1-b209987a634a",
+                        "name": "Wartortle",
+                        "stage": "2",
+                        "evolved_from": "Squirlte",
+                        "evolves_to": "Blastoise",
+                        "type_1": "water",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "53633bd9-9648-4dfa-be0d-aa08ba259797",
+                    "id": "9",
+                    "info": {
+                        "guid": "03efc1c5-7402-4159-8d26-4c2d61ca4244",
+                        "name": "Blastoise",
+                        "stage": "3",
+                        "evolved_from": "Wartortle",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "826ef162-0cb0-4752-b08d-f9b6102089db",
+                    "id": "10",
+                    "info": {
+                        "guid": "42c5557e-daf8-419a-a993-cec6db7f1559",
+                        "name": "Caterpie",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Metapod",
+                        "type_1": "bug",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "8e6d22cc-2ad1-4b75-af9a-b0aa416ecc75",
+                    "id": "11",
+                    "info": {
+                        "guid": "216dc7b4-8ef9-4b79-aafb-240a93b97c70",
+                        "name": "Metapod",
+                        "stage": "2",
+                        "evolved_from": "Caterpie",
+                        "evolves_to": "Butterfree",
+                        "type_1": "bug",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "900616a5-6bb9-4aed-b804-0e245c436194",
+                    "id": "12",
+                    "info": {
+                        "guid": "60771325-7c60-4830-bec4-81c2bbb773f3",
+                        "name": "Butterfree",
+                        "stage": "3",
+                        "evolved_from": "Metapod",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "flying",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "e0a4fa66-96f4-46da-aa46-32984b1a793b",
+                    "id": "13",
+                    "info": {
+                        "guid": "0412ad35-df89-4333-840d-a4fd64d68c15",
+                        "name": "Weedle",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Kakuna",
+                        "type_1": "bug",
+                        "type_2": "poison",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "24a844bb-9f48-4ce7-872a-4c86327de2d9",
+                    "id": "14",
+                    "info": {
+                        "guid": "0b342b6f-e40c-4d16-b408-6cf36d384c63",
+                        "name": "Kakuna",
+                        "stage": "2",
+                        "evolved_from": "Weedle",
+                        "evolves_to": "Beedrill",
+                        "type_1": "bug",
+                        "type_2": "poison",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "35ec1e43-3985-4528-962f-f62142ee4b01",
+                    "id": "15",
+                    "info": {
+                        "guid": "71e69bb2-cdec-4e0b-9617-77aac9d57393",
+                        "name": "Beedrill",
+                        "stage": "3",
+                        "evolved_from": "Kakuna",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "poison",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "1c37586a-1bce-487f-aafd-630f6f4f7566",
+                    "id": "16",
+                    "info": {
+                        "guid": "6d1e48f1-5db8-4b93-a8c3-2e8a16e03268",
+                        "name": "Pidgey",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Pidgeotto",
+                        "type_1": "normal",
+                        "type_2": "flying",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "4dc2ba39-ff87-4b29-afe8-1b3b79dba9b1",
+                    "id": "17",
+                    "info": {
+                        "guid": "4013fae5-fcd1-4cc0-bf87-20e5c7a52f4e",
+                        "name": "Pidgeotto",
+                        "stage": "2",
+                        "evolved_from": "Pidgey",
+                        "evolves_to": "Pidgeot",
+                        "type_1": "normal",
+                        "type_2": "flying",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "6111e5f9-be41-48a3-8492-2ca2a165c32b",
+                    "id": "18",
+                    "info": {
+                        "guid": "d45a1f06-ee56-4324-b7ea-35a4b53ca194",
+                        "name": "Pidgeot",
+                        "stage": "3",
+                        "evolved_from": "Pidgeotto",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "flying",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "ba714bdf-0d93-4ed0-af61-1bf848f7e936",
+                    "id": "19",
+                    "info": {
+                        "guid": "0bb9bd2f-2dd2-43e7-93a2-1784b9d44a11",
+                        "name": "Rattata",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Raticate",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "e1c5f513-7064-4475-9447-d88ff84fca77",
+                    "id": "20",
+                    "info": {
+                        "guid": "7d99460e-af57-4e9d-90b2-f6bf0f88e1f9",
+                        "name": "Raticate",
+                        "stage": "2",
+                        "evolved_from": "Rattata",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "65d1c9f2-1151-494c-ab10-a845e973ec77",
+                    "id": "21",
+                    "info": {
+                        "guid": "d0893f2e-d9b1-4026-bd43-fc3b3519be1f",
+                        "name": "Spearow",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Fearow",
+                        "type_1": "normal",
+                        "type_2": "flying",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "8c2d53bc-efb0-4ab1-9f00-cedcc2be3894",
+                    "id": "22",
+                    "info": {
+                        "guid": "581a4523-0324-4bdf-b693-cdb482287016",
+                        "name": "Fearow",
+                        "stage": "",
+                        "evolved_from": "Spearow",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "flying",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "9415d318-d3c2-47e6-a28e-f46f0caa21c4",
+                    "id": "23",
+                    "info": {
+                        "guid": "2e86a4e2-29bd-4449-9fb9-fc42ff5b995d",
+                        "name": "Ekans",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Arbok",
+                        "type_1": "poison",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "6dd065ba-5dd6-4310-9ec5-2f5c846aa245",
+                    "id": "24",
+                    "info": {
+                        "guid": "91aadc81-0c19-42e6-8dd2-c06cd6d20984",
+                        "name": "Arbok",
+                        "stage": "2",
+                        "evolved_from": "Ekans",
+                        "evolves_to": "",
+                        "type_1": "poison",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "7865fbc6-67ee-4261-82a5-4acf8bda3b36",
+                    "id": "25",
+                    "info": {
+                        "guid": "c0d0cbc2-ccdf-46f3-a9e6-ab631d813b92",
+                        "name": "Pikachu",
+                        "stage": "1",
+                        "evolved_from": "Pichu",
+                        "evolves_to": "Raichu",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "88db0744-bf50-4038-bcba-3a654bcc8f41",
+                    "id": "26",
+                    "info": {
+                        "guid": "34393bf4-7a9c-4452-a8f1-5e567dacd611",
+                        "name": "Raichu",
+                        "stage": "2",
+                        "evolved_from": "Pikachu",
+                        "evolves_to": "",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "debb6b62-52a6-4120-809b-7cfbcba80d55",
+                    "id": "27",
+                    "info": {
+                        "guid": "74efcb60-6b55-4af8-a1fc-c860c18c7378",
+                        "name": "Sandshrew",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Sandslash",
+                        "type_1": "ground",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "f6246e97-82f8-4570-a25d-a4bcd93bfcc6",
+                    "id": "28",
+                    "info": {
+                        "guid": "3be0551b-61d2-44fd-bab3-61ee2180551b",
+                        "name": "Sandslash",
+                        "stage": "2",
+                        "evolved_from": "Sandshrew",
+                        "evolves_to": "",
+                        "type_1": "ground",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "5180612f-9c9d-4fc5-a6bc-a83101e15ed5",
+                    "id": "29",
+                    "info": {
+                        "guid": "c77634be-a249-411a-9f26-51b4aa0c3cfe",
+                        "name": "Nidoran♀",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Nidorina",
+                        "type_1": "poison",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "247cee57-f375-478d-982c-e0daa5746708",
+                    "id": "30",
+                    "info": {
+                        "guid": "12ff0bd3-5cbd-4bcb-a005-aeadf6148a52",
+                        "name": "Nidorina",
+                        "stage": "2",
+                        "evolved_from": "Nidoran♀",
+                        "evolves_to": "Nidoqueen",
+                        "type_1": "poison",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "a0947914-1096-4448-ad26-66f578af803a",
+                    "id": "31",
+                    "info": {
+                        "guid": "8d1f4f48-966e-4ec6-b073-5f47df148fa9",
+                        "name": "Nidoqueen",
+                        "stage": "3",
+                        "evolved_from": "Nidorina",
+                        "evolves_to": "",
+                        "type_1": "poison",
+                        "type_2": "ground",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "58003ad7-facb-4aa5-ac02-6a800c989e88",
+                    "id": "32",
+                    "info": {
+                        "guid": "4b3138fb-aea0-48fb-9ac8-610b33744d89",
+                        "name": "Nidoran♂",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Nidorino",
+                        "type_1": "poison",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "06fb88e3-5c1e-4e1c-9b22-a7c51b4a0fb7",
+                    "id": "33",
+                    "info": {
+                        "guid": "84fbadbe-e54d-4a11-8f87-eb92a2e8a99a",
+                        "name": "Nidorino",
+                        "stage": "2",
+                        "evolved_from": "Nidoran♂",
+                        "evolves_to": "Nidoking",
+                        "type_1": "poison",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "8ed166a4-5ccb-4ed7-b1c1-cd75ed005345",
+                    "id": "34",
+                    "info": {
+                        "guid": "ead2bc5f-c588-4ab0-9161-c3890c5d6273",
+                        "name": "Nidoking",
+                        "stage": "3",
+                        "evolved_from": "Nidorino",
+                        "evolves_to": "",
+                        "type_1": "poison",
+                        "type_2": "ground",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "349ae7f1-d604-4956-82cf-a1d7fd7af23e",
+                    "id": "35",
+                    "info": {
+                        "guid": "26ead39f-017d-476a-bc36-c62b68708b0a",
+                        "name": "Clefairy",
+                        "stage": "1",
+                        "evolved_from": "Cleffa",
+                        "evolves_to": "Clefable",
+                        "type_1": "fairy",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "ba4e29ec-cae1-48cf-bb2b-42bbc259e1d5",
+                    "id": "36",
+                    "info": {
+                        "guid": "e4ef27c3-88b4-459d-bbf7-1ac9292cdf48",
+                        "name": "Clefable",
+                        "stage": "2",
+                        "evolved_from": "Clefairy",
+                        "evolves_to": "",
+                        "type_1": "fairy",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "87ac0c63-7885-4693-92eb-0b69afbeb6f8",
+                    "id": "37",
+                    "info": {
+                        "guid": "cb575957-07aa-46f5-8975-042e269d596c",
+                        "name": "Vulpix",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Ninetales",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "8d95e9bb-027c-4db2-b4d1-84607d669fdf",
+                    "id": "38",
+                    "info": {
+                        "guid": "82d1a89c-1d52-4465-ac63-33c11d653bbb",
+                        "name": "Ninetales",
+                        "stage": "2",
+                        "evolved_from": "Vulpix",
+                        "evolves_to": "",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "legendary": false,
+                        "baby": false,
+                        "mythic": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "69e06b32-e467-4e07-bb1a-ca177545db2e",
+                    "id": "39",
+                    "info": {
+                        "guid": "c61ea7ac-aba4-4bcb-a88c-bad82908364c",
+                        "name": "Jigglybuff",
+                        "stage": "1",
+                        "evolved_from": "Igglybuff",
+                        "evolves_to": "Wigglytuff",
+                        "type_1": "normal",
+                        "type_2": "fairy",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "adc24116-a09c-43d7-aba3-364eddc9431f",
+                    "id": "40",
+                    "info": {
+                        "guid": "d490f0cd-61f9-4ac5-9a7f-fa07c7928dcf",
+                        "name": "Wigglytuff",
+                        "stage": "2",
+                        "evolved_from": "Jigglybuff",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "fairy",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "4e69e120-4f46-484a-8857-e50c0a22c339",
+                    "id": "41",
+                    "info": {
+                        "guid": "23c215e5-9067-443c-9ef4-7c236df83e8a",
+                        "name": "Zubat",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Golbat",
+                        "type_1": "poison",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "ecb9e8bb-dd99-4686-a49e-3049b28e80ef",
+                    "id": "42",
+                    "info": {
+                        "guid": "b9538be6-6db5-4c13-ad99-83026143a336",
+                        "name": "Golbat",
+                        "stage": "2",
+                        "evolved_from": "Zubat",
+                        "evolves_to": "",
+                        "type_1": "poison",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "122d7caf-dff7-4d00-9cfa-d6440118a14f",
+                    "id": "43",
+                    "info": {
+                        "guid": "a43f2582-2b64-4b69-91bd-b739537b9e10",
+                        "name": "Oddish",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Gloom",
+                        "type_1": "grass",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "a604cc7c-992b-4cb0-a68d-38f6c4c575e5",
+                    "id": "44",
+                    "info": {
+                        "guid": "a2383a47-405c-4230-9ad2-66f55941d777",
+                        "name": "Gloom",
+                        "stage": "2",
+                        "evolved_from": "Oddish",
+                        "evolves_to": "Vileplume",
+                        "type_1": "grass",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "f0153e79-4ece-4724-92c4-9e18b589236d",
+                    "id": "45",
+                    "info": {
+                        "guid": "a889d0da-73c2-4e73-ab9f-899655ad8a28",
+                        "name": "Vileplume",
+                        "stage": "3",
+                        "evolved_from": "Gloom",
+                        "evolves_to": "",
+                        "type_1": "grass",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "2173a754-3f82-4b25-b451-d927bd678e0c",
+                    "id": "46",
+                    "info": {
+                        "guid": "b7eaab99-b6f1-44e7-a75f-f3e4eba15198",
+                        "name": "Paras",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Parasect",
+                        "type_1": "bug",
+                        "type_2": "grass",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "67934653-d4cb-4fe2-8d1f-f4d25a6d54ea",
+                    "id": "47",
+                    "info": {
+                        "guid": "7ece4e6e-59b1-47ff-bf04-1a1f7ce5814a",
+                        "name": "Parasect",
+                        "stage": "2",
+                        "evolved_from": "Paras",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "grass",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "572a5206-daf2-4c00-8d79-c9667c36442b",
+                    "id": "48",
+                    "info": {
+                        "guid": "0228a0cd-8682-40ed-9979-161715573442",
+                        "name": "Venonat",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Venomoth",
+                        "type_1": "bug",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "ecdb7190-6f61-4990-8e01-a57fd538e7c0",
+                    "id": "49",
+                    "info": {
+                        "guid": "031e04bf-f1f7-42a9-a1f4-dab6adda2fd6",
+                        "name": "Venomoth",
+                        "stage": "2",
+                        "evolved_from": "Venonat",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "8b32ad14-c490-4d4d-bdf2-124b44da4967",
+                    "id": "50",
+                    "info": {
+                        "guid": "8acaef8c-e1d9-4ad0-831a-e6d4246d981a",
+                        "name": "Diglett",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Dugtrio",
+                        "type_1": "ground",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "3dfdd5c3-8943-4573-90e7-9df139c7164f",
+                    "id": "51",
+                    "info": {
+                        "guid": "c942e7d7-2bc1-4b02-9684-784b464d15e4",
+                        "name": "Dugtrio",
+                        "stage": "2",
+                        "evolved_from": "Diglett",
+                        "evolves_to": "",
+                        "type_1": "ground",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "a568ae7d-0959-4272-9f86-049cc75012a5",
+                    "id": "52",
+                    "info": {
+                        "guid": "2f140ce2-6e88-44e2-b651-8368941f6f03",
+                        "name": "Meowth",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Persian",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": true,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "4103fc80-e7dc-4c73-98bd-ba50c8469dd5",
+                    "id": "53",
+                    "info": {
+                        "guid": "ecf6a054-e67f-4961-a746-c222dd501d52",
+                        "name": "Persian",
+                        "stage": "2",
+                        "evolved_from": "Meowth",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": true,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "f5ab29b9-a534-4222-b4f7-67b6db6a2e9c",
+                    "id": "54",
+                    "info": {
+                        "guid": "8b2aed66-c0dd-42cf-92a1-71b6f4a66c0a",
+                        "name": "Psyduck",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Golduck",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "de99ab87-0673-493e-a492-4bd80ef78817",
+                    "id": "55",
+                    "info": {
+                        "guid": "3f4a3108-1a97-4e0a-a21e-197e10ef4b32",
+                        "name": "Golduck",
+                        "stage": "2",
+                        "evolved_from": "Psyduck",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "d21ac7d0-00a8-41d3-98c2-78dd6d3a9bfd",
+                    "id": "56",
+                    "info": {
+                        "guid": "38fcdf6e-f59c-4756-9939-5944a0eac165",
+                        "name": "Mankey",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Primeape",
+                        "type_1": "fighting",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "1a383864-c81a-4055-924e-3503a72b39f2",
+                    "id": "57",
+                    "info": {
+                        "guid": "8b6d8283-10e8-40ef-81a8-fe043bc550b4",
+                        "name": "Primeape",
+                        "stage": "2",
+                        "evolved_from": "Mankey",
+                        "evolves_to": "",
+                        "type_1": "fighting",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "2dd0803f-d5cc-4603-ac94-066937156607",
+                    "id": "58",
+                    "info": {
+                        "guid": "ba1a0f3e-2437-427a-b66a-36fa4bff39ab",
+                        "name": "Growlithe",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Arcanine",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": true
+                    }
+                },
+                {
+                    "guid": "0a2c2f14-ab00-49f0-80fe-cde1997143eb",
+                    "id": "59",
+                    "info": {
+                        "guid": "bbeaf6f4-2209-4762-b179-2bdaf6a175ac",
+                        "name": "Arcanine",
+                        "stage": "2",
+                        "evolved_from": "Growlithe",
+                        "evolves_to": "",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": true
+                    }
+                },
+                {
+                    "guid": "8cc8a310-6d07-439e-84d6-355864dfa02b",
+                    "id": "60",
+                    "info": {
+                        "guid": "8089f8df-183a-4908-94b1-1720184b6953",
+                        "name": "Poliwag",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Poliwhirl",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "9e964604-ecac-4406-96d2-3bdb3fdb7f16",
+                    "id": "61",
+                    "info": {
+                        "guid": "54eb35c2-ee3b-4a9b-8bd7-67ff608055da",
+                        "name": "Poliwhirl",
+                        "stage": "2",
+                        "evolved_from": "Poliwag",
+                        "evolves_to": "Poliwrath",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "9d4efd9c-d0da-42b1-b245-081c0a6ce55d",
+                    "id": "62",
+                    "info": {
+                        "guid": "8bc8412f-1def-4d9e-bab8-fc6645589d5b",
+                        "name": "Poliwrath",
+                        "stage": "3",
+                        "evolved_from": "Poliwhirl",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "fighting",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "ac18c6fb-1900-448b-b797-58e70bc1c44d",
+                    "id": "63",
+                    "info": {
+                        "guid": "3e585b5d-9ca8-4e8f-8b4d-218944cc80c6",
+                        "name": "Abra",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Kadabra",
+                        "type_1": "psychic",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "f9ab22cf-e595-47ff-b860-095b77e274d5",
+                    "id": "64",
+                    "info": {
+                        "guid": "fda04c86-d946-4fb5-930a-e3a347502316",
+                        "name": "Kadabra",
+                        "stage": "2",
+                        "evolved_from": "Abra",
+                        "evolves_to": "Alakazam",
+                        "type_1": "psychic",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "01525f44-6565-46b2-badd-4cae2bc82287",
+                    "id": "65",
+                    "info": {
+                        "guid": "00ed28a4-2e70-42de-afe2-cc90c9e18ed7",
+                        "name": "Alakazam",
+                        "stage": "3",
+                        "evolved_from": "Kadabra",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "30c6f765-187b-460e-a838-824c35d36ca8",
+                    "id": "66",
+                    "info": {
+                        "guid": "3e9616c3-83d3-4f21-aaeb-1e0842e239d1",
+                        "name": "Machop",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Machoke",
+                        "type_1": "fighting",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "41fd6542-855f-40ed-886c-c925961bc8fe",
+                    "id": "67",
+                    "info": {
+                        "guid": "9096709e-3f39-4676-9a3f-743f105d7847",
+                        "name": "Machoke",
+                        "stage": "2",
+                        "evolved_from": "Machop",
+                        "evolves_to": "Machamp",
+                        "type_1": "fighting",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "e15d23fc-10b2-48c5-b477-6a50d9ccc9e0",
+                    "id": "68",
+                    "info": {
+                        "guid": "bd7b2507-b577-4c42-b980-c0487a397531",
+                        "name": "Machamp",
+                        "stage": "3",
+                        "evolved_from": "Machoke",
+                        "evolves_to": "",
+                        "type_1": "fighting",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "fdff32cd-734e-4176-88c5-c8f59a33ee23",
+                    "id": "69",
+                    "info": {
+                        "guid": "043d4115-0b96-45fa-bd8a-04e04a122a0f",
+                        "name": "Bellsprout",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Weepinbell",
+                        "type_1": "grass",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "a9f62fc0-2782-4442-b657-cfa22d42cb93",
+                    "id": "70",
+                    "info": {
+                        "guid": "f539e77f-4eae-4b60-a8c6-0a221d53dcec",
+                        "name": "Weepinbell",
+                        "stage": "2",
+                        "evolved_from": "Bellsprout",
+                        "evolves_to": "Victrebell",
+                        "type_1": "grass",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "a9ce4b25-b22a-4563-a504-a675cbb6ab37",
+                    "id": "71",
+                    "info": {
+                        "guid": "d5e346e8-bb79-4957-b12c-180835b2dde6",
+                        "name": "Victrebell",
+                        "stage": "3",
+                        "evolved_from": "Weepinbell",
+                        "evolves_to": "",
+                        "type_1": "grass",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "d565b767-a128-4203-8686-dc42beb942ff",
+                    "id": "72",
+                    "info": {
+                        "guid": "04267c2a-777c-4e8d-92db-0f46c78cef3e",
+                        "name": "Tentacool",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Tentacruel",
+                        "type_1": "water",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "8104782d-08a0-4997-b7af-cb04657fd04c",
+                    "id": "73",
+                    "info": {
+                        "guid": "271040e6-4046-46b8-9cd1-71981603b364",
+                        "name": "Tentacruel",
+                        "stage": "2",
+                        "evolved_from": "Tentacool",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "b9d8a137-3b3d-43b8-a157-4a15ace715f9",
+                    "id": "74",
+                    "info": {
+                        "guid": "d0e7825b-99ad-45c7-92d8-4eadc262c2d8",
+                        "name": "Geodude",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Graveler",
+                        "type_1": "rock",
+                        "type_2": "ground",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": true,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "6ddfb65b-6ccf-4b76-9b81-599783c0344a",
+                    "id": "75",
+                    "info": {
+                        "guid": "e56e400e-b090-486e-ba77-bae952ff9a6e",
+                        "name": "Graveler",
+                        "stage": "2",
+                        "evolved_from": "Geodude",
+                        "evolves_to": "Golem",
+                        "type_1": "rock",
+                        "type_2": "ground",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": true,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "7d5df9e5-da71-4eb0-962c-1298a1bc5b6b",
+                    "id": "76",
+                    "info": {
+                        "guid": "fe2d3c9c-5c3a-40c5-bdc3-b7712fbb73ee",
+                        "name": "Golem",
+                        "stage": "3",
+                        "evolved_from": "Graveler",
+                        "evolves_to": "",
+                        "type_1": "rock",
+                        "type_2": "ground",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": true,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "3832dedf-60ce-4f11-a3f2-d9fc3eb9ae51",
+                    "id": "77",
+                    "info": {
+                        "guid": "f4433e83-3686-4334-92b0-58ce23bd8f84",
+                        "name": "Ponyta",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Rapidash",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "cf763731-2596-4e43-bd4c-bb969729b56b",
+                    "id": "78",
+                    "info": {
+                        "guid": "c2193768-151d-47f7-8eac-f7fb53447a12",
+                        "name": "Rapidash",
+                        "stage": "2",
+                        "evolved_from": "Ponyta",
+                        "evolves_to": "",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "96f79dfa-3395-4c7d-bd4c-587671e9be69",
+                    "id": "79",
+                    "info": {
+                        "guid": "dbb12567-2bb0-4e48-bfc7-58988c04ff80",
+                        "name": "Slowpoke",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Slowbro",
+                        "type_1": "water",
+                        "type_2": "psychic",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "bec3a5fa-24c3-4b44-80ad-a5d68b8af468",
+                    "id": "80",
+                    "info": {
+                        "guid": "8c4a3f2a-0a85-4ab3-8da9-96f0e901ab53",
+                        "name": "Slowbro",
+                        "stage": "2",
+                        "evolved_from": "Slowpoke",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "psychic",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": true,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "7413630d-a252-4034-aebb-0319cd6d85d9",
+                    "id": "81",
+                    "info": {
+                        "guid": "c283c78f-bad1-43e5-9a47-6485bbb3adfc",
+                        "name": "Makgnemite",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Magneton",
+                        "type_1": "electric",
+                        "type_2": "steel",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "486d8eee-87b4-4c1f-9c10-950e5dc4856e",
+                    "id": "82",
+                    "info": {
+                        "guid": "b92aeb65-2250-4047-90f7-7dc61bb86332",
+                        "name": "Magneton",
+                        "stage": "2",
+                        "evolved_from": "Makgnemite",
+                        "evolves_to": "",
+                        "type_1": "electric",
+                        "type_2": "steel",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "4869841b-b296-4edf-9a22-d026fcc51f4f",
+                    "id": "83",
+                    "info": {
+                        "guid": "cb1b1f9b-ca68-4232-9536-d1aeddf4b65f",
+                        "name": "Farfetch'd",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "5d1d4579-d72e-44db-a61c-26077f64d763",
+                    "id": "84",
+                    "info": {
+                        "guid": "9d1583c8-1ded-4305-92fb-cbb43779dbe1",
+                        "name": "Doduo",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Dodrio",
+                        "type_1": "normal",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "75cc046a-bbd5-424a-9969-f83e7d2f6ac4",
+                    "id": "85",
+                    "info": {
+                        "guid": "2dda1991-6b94-4921-b33d-b14baf3053ee",
+                        "name": "Dodrio",
+                        "stage": "2",
+                        "evolved_from": "Doduo",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "46523142-5b1b-4d51-a565-38bc55330701",
+                    "id": "86",
+                    "info": {
+                        "guid": "87684b26-fef1-4970-8cb2-cbaaa5bfba1c",
+                        "name": "Seel",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Dewgong",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "27c88d69-4ee2-4af0-8a1e-1c42b0f078c7",
+                    "id": "87",
+                    "info": {
+                        "guid": "36ada79c-14c5-4036-a366-846fc33e611a",
+                        "name": "Dewgong",
+                        "stage": "2",
+                        "evolved_from": "Seel",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "ice",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "54988661-f79e-4629-8d40-f76a534457fd",
+                    "id": "88",
+                    "info": {
+                        "guid": "a84e62a7-d5fe-4a96-84f4-3b21a3aa1e25",
+                        "name": "Grimer",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Muk",
+                        "type_1": "poison",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": true,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "14a6fec9-0708-48f4-b5c1-5a335d30d073",
+                    "id": "89",
+                    "info": {
+                        "guid": "a2f20e90-659e-4095-8ec7-4079b4b60e1b",
+                        "name": "Muk",
+                        "stage": "2",
+                        "evolved_from": "Grimer",
+                        "evolves_to": "",
+                        "type_1": "poison",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": true,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "08c58c88-9b5d-4b42-bfa7-59a9413c53ab",
+                    "id": "90",
+                    "info": {
+                        "guid": "693ce12a-6a88-427a-bfe6-ad480b82bd6b",
+                        "name": "Shellder",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Cloyster",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "f1d87d12-95e8-4c6b-9a63-b6a0f56a41b8",
+                    "id": "91",
+                    "info": {
+                        "guid": "af57f731-7b6e-470e-a4db-04642b3491b4",
+                        "name": "Cloyster",
+                        "stage": "2",
+                        "evolved_from": "Shellder",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "ice",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "a1826ec3-7c92-4c1c-bc8a-f4b89a9df3bf",
+                    "id": "92",
+                    "info": {
+                        "guid": "7518d8af-7c5e-4d29-bfd6-818e890a3961",
+                        "name": "Gastly",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Haunter",
+                        "type_1": "ghost",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "beb5c5f6-9d29-4944-bd41-fd26005fb21e",
+                    "id": "93",
+                    "info": {
+                        "guid": "6ff90649-8347-40a0-8c01-08650a7345c2",
+                        "name": "Haunter",
+                        "stage": "2",
+                        "evolved_from": "Gastly",
+                        "evolves_to": "Gengar",
+                        "type_1": "ghost",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "bbf55fcd-16a8-42e2-8752-ea8147831423",
+                    "id": "94",
+                    "info": {
+                        "guid": "b4bf33b6-252f-4600-ab11-c54df59ae0e0",
+                        "name": "Gengar",
+                        "stage": "3",
+                        "evolved_from": "Haunter",
+                        "evolves_to": "",
+                        "type_1": "ghost",
+                        "type_2": "poison",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "d0a9816a-6579-4a64-8e1c-222ed1a9e50e",
+                    "id": "95",
+                    "info": {
+                        "guid": "9edbc3da-7475-4916-a3ad-faf9882d7fc9",
+                        "name": "Onix",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Steelix",
+                        "type_1": "rock",
+                        "type_2": "ground",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "d0912a03-ee85-424e-9f72-69afa9c217cf",
+                    "id": "96",
+                    "info": {
+                        "guid": "a1aa895a-bc4c-4f12-bdea-8e4ad1d90b89",
+                        "name": "Drowzee",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Hypno",
+                        "type_1": "psychic",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "d6518778-90ed-4adf-a71c-c6a8d6a051c3",
+                    "id": "97",
+                    "info": {
+                        "guid": "a4ae75a7-45e0-47b9-a7c4-de25f61718b8",
+                        "name": "Hypno",
+                        "stage": "2",
+                        "evolved_from": "Drowzee",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "aceb43f7-050e-4be9-88f6-d580cb07fd56",
+                    "id": "98",
+                    "info": {
+                        "guid": "59925c46-bf94-491f-909b-6bc0b326d561",
+                        "name": "Krabby",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Kingler",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "b401eab2-a476-40f5-b92b-9fed52a16baf",
+                    "id": "99",
+                    "info": {
+                        "guid": "4a6fea69-50aa-4c3c-85b6-529fa37d31a7",
+                        "name": "Kingler",
+                        "stage": "2",
+                        "evolved_from": "Krabby",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "e90525a0-13fd-45c8-b7cf-102aaaf21a28",
+                    "id": "100",
+                    "info": {
+                        "guid": "7f53ff63-5f3d-4625-8ea4-13ee75cbbb65",
+                        "name": "Voltorb",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Electrode",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": true
+                    }
+                },
+                {
+                    "guid": "01b7ce8b-a2cf-404a-96f0-f11bb30788c2",
+                    "id": "101",
+                    "info": {
+                        "guid": "40c3a3c5-fda4-4144-bdc6-3f5b9fc18943",
+                        "name": "Electrode",
+                        "stage": "2",
+                        "evolved_from": "Voltorb",
+                        "evolves_to": "",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": true
+                    }
+                },
+                {
+                    "guid": "99b7b20e-4c02-4407-8240-2b85333c1b23",
+                    "id": "102",
+                    "info": {
+                        "guid": "414aead5-dcaa-4ec1-aa44-652d06d0ba6d",
+                        "name": "Exeggcute",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Exeggutor",
+                        "type_1": "grass",
+                        "type_2": "psychic",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "b5903fb4-b91a-4595-8940-ebce838e40f5",
+                    "id": "103",
+                    "info": {
+                        "guid": "8c88cd48-4693-4472-9bcd-63ca5f4973c9",
+                        "name": "Exeggutor",
+                        "stage": "2",
+                        "evolved_from": "Exeggcute",
+                        "evolves_to": "",
+                        "type_1": "grass",
+                        "type_2": "psychic",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": true,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "37942c52-97db-4981-a2b3-aaa8659bc51d",
+                    "id": "104",
+                    "info": {
+                        "guid": "75b2d14b-b030-4fe1-941f-1ec7a8b124ef",
+                        "name": "Cubone",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Marowak",
+                        "type_1": "ground",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "e4898639-4b45-4d19-8c59-9f3e06f30f3c",
+                    "id": "105",
+                    "info": {
+                        "guid": "415678a7-ba24-46a0-b2a2-a22a6d680608",
+                        "name": "Marowak",
+                        "stage": "2",
+                        "evolved_from": "Cubone",
+                        "evolves_to": "",
+                        "type_1": "ground",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": true,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "f0ffc5f5-5c41-46ab-8d75-418057146c1d",
+                    "id": "106",
+                    "info": {
+                        "guid": "3736e20a-3dd8-4462-ae3f-32912828144a",
+                        "name": "Hitmonlee",
+                        "stage": "1",
+                        "evolved_from": "Tyrogue",
+                        "evolves_to": "",
+                        "type_1": "fighting",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "7cd749c1-8521-4f32-ae47-a07b63f01705",
+                    "id": "107",
+                    "info": {
+                        "guid": "b8c9fe5a-998d-4d90-8afd-462d8ca6621f",
+                        "name": "Hitmonchan",
+                        "stage": "1",
+                        "evolved_from": "Tyrogue",
+                        "evolves_to": "",
+                        "type_1": "fighting",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "c2d7c348-4a96-44cf-a9ba-61904c16d6c5",
+                    "id": "108",
+                    "info": {
+                        "guid": "871e00cf-0681-4d50-a9dd-f11395f7da38",
+                        "name": "Lickitung",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Lickilicky",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "1308c34f-cc07-4530-87ee-1b762bce676a",
+                    "id": "109",
+                    "info": {
+                        "guid": "af5b5672-a02c-424d-969d-d213cd0f347f",
+                        "name": "Koffing",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Weezing",
+                        "type_1": "poison",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "19fe3650-906a-4b43-bf47-bac032f13200",
+                    "id": "110",
+                    "info": {
+                        "guid": "23cf959a-8cc1-4c4e-9f40-1652fc0fb77a",
+                        "name": "Weezing",
+                        "stage": "2",
+                        "evolved_from": "Koffing",
+                        "evolves_to": "",
+                        "type_1": "poison",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "7eacb9c9-3730-4105-9407-3421f1d31f16",
+                    "id": "111",
+                    "info": {
+                        "guid": "0f08a22b-5375-4496-9919-69366ae504a5",
+                        "name": "Rhyhorn",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Rhydon",
+                        "type_1": "ground",
+                        "type_2": "rock",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "67655a63-a889-479e-9751-8d722af602fd",
+                    "id": "112",
+                    "info": {
+                        "guid": "4a2fa6c5-f33d-4b49-be96-9d2ca552c35d",
+                        "name": "Rhydon",
+                        "stage": "2",
+                        "evolved_from": "Rhyhorn",
+                        "evolves_to": "Rhyperior",
+                        "type_1": "ground",
+                        "type_2": "rock",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "9b6c2369-2607-4958-b9c3-11e3d80fdde2",
+                    "id": "113",
+                    "info": {
+                        "guid": "9f929426-1718-480c-9cf1-7653593d2d99",
+                        "name": "Chansey",
+                        "stage": "1",
+                        "evolved_from": "Happiny",
+                        "evolves_to": "Blissey",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "b946bff5-a1f6-4b11-8835-2ca374610dd3",
+                    "id": "114",
+                    "info": {
+                        "guid": "46f337d0-4d98-4ee4-809a-da783f19b32d",
+                        "name": "Tangela",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Tangrowth",
+                        "type_1": "grass",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "7b3d3322-cad4-4ccc-89e2-c207c60333f8",
+                    "id": "115",
+                    "info": {
+                        "guid": "74a9f8fd-bb65-4c9a-bc61-ae88996590f8",
+                        "name": "Kangaskhan",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "4f6e0252-27d0-4ce2-ae0b-a6f39e43871c",
+                    "id": "116",
+                    "info": {
+                        "guid": "f80ea54f-98b9-4dcf-823a-a76aea0d7fec",
+                        "name": "Horsea",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Seadra",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "71e2b886-a9bd-41ff-94e0-012d0c976b40",
+                    "id": "117",
+                    "info": {
+                        "guid": "ad42bdf4-dddb-4c36-a5c3-8e0600600b2c",
+                        "name": "Seadra",
+                        "stage": "2",
+                        "evolved_from": "Horsea",
+                        "evolves_to": "Kingdra",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "6d9495eb-f0c0-4c21-9160-c278e7976a15",
+                    "id": "118",
+                    "info": {
+                        "guid": "472effa9-294c-4b0f-ab67-a312feee3eb7",
+                        "name": "Goldeen",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Seaking",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "32d429b8-efbe-44de-a786-ebd77c356033",
+                    "id": "119",
+                    "info": {
+                        "guid": "d0775f50-162f-4f4c-8553-a6315f620f8d",
+                        "name": "Seaking",
+                        "stage": "2",
+                        "evolved_from": "Goldeen",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "9bb6024b-498c-471b-8eee-fbd00e053109",
+                    "id": "120",
+                    "info": {
+                        "guid": "833fbdba-acac-465e-937e-171976d7813d",
+                        "name": "Staryu",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Starmie",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "06a61977-fe21-4cf9-8d87-89d415b42bd6",
+                    "id": "121",
+                    "info": {
+                        "guid": "c8a758ca-11e4-46ed-8d93-ea466acf3c99",
+                        "name": "Starmie",
+                        "stage": "2",
+                        "evolved_from": "Staryu",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "psychic",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "e892e878-86c0-4502-af50-e7e65708d003",
+                    "id": "122",
+                    "info": {
+                        "guid": "e7b4c766-33de-46a2-9f55-0afbb8812d30",
+                        "name": "Mr. Mime",
+                        "stage": "1",
+                        "evolved_from": "Mime Jr.",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "fairy",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "003f08c4-330f-430e-87a1-6755774a12e5",
+                    "id": "123",
+                    "info": {
+                        "guid": "696afae9-733d-4356-a05d-26f60c7750ad",
+                        "name": "Scyther",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Scizor & Kleavor",
+                        "type_1": "bug",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "0450c6ff-5302-4901-b885-69faace9e9cb",
+                    "id": "124",
+                    "info": {
+                        "guid": "8fc25b40-397e-41aa-9147-496bfb702fa0",
+                        "name": "Jynx",
+                        "stage": "1",
+                        "evolved_from": "Smoochum",
+                        "evolves_to": "",
+                        "type_1": "ice",
+                        "type_2": "psychic",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "3d5be69f-deda-4bb1-9c4e-89c35b52ab99",
+                    "id": "125",
+                    "info": {
+                        "guid": "375200bc-108b-4efd-86f8-9e9499a62f89",
+                        "name": "Electabuzz",
+                        "stage": "1",
+                        "evolved_from": "Elekid",
+                        "evolves_to": "Electivire",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "f08b3fc4-b381-403a-86e2-05306eb40b79",
+                    "id": "126",
+                    "info": {
+                        "guid": "98736dba-c004-4b2c-8731-a2fd4859bede",
+                        "name": "Magmar",
+                        "stage": "1",
+                        "evolved_from": "Magby",
+                        "evolves_to": "Magmortar",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "a5d40f76-fcb7-4f8a-b652-ec8571e4e5d7",
+                    "id": "127",
+                    "info": {
+                        "guid": "e44e8809-5f90-4a13-8782-fc50d13baaa6",
+                        "name": "Pinsir",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "aac357f2-5ffa-402a-878a-645b0261cf2f",
+                    "id": "128",
+                    "info": {
+                        "guid": "44aa51a8-1eee-4038-beac-d2c5373ed3aa",
+                        "name": "Tauros",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "66b88ea5-4879-4c0c-842c-c5f6bdd3c064",
+                    "id": "129",
+                    "info": {
+                        "guid": "22463a81-df4c-4523-9bf1-359e8c328502",
+                        "name": "Magikarp",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Gyarados",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "f7a8ae7b-4400-409f-ac6f-d285d2ebffe5",
+                    "id": "130",
+                    "info": {
+                        "guid": "241d7486-9ac2-45e9-b4fa-a519ff1525fd",
+                        "name": "Gyarados",
+                        "stage": "2",
+                        "evolved_from": "Magikarp",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "8f16185c-71cc-48da-8880-9e8b62295107",
+                    "id": "131",
+                    "info": {
+                        "guid": "ecd71886-ba67-46f6-9bca-77b74d902049",
+                        "name": "Lapras",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "ice",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "2b751483-5d32-4383-815f-db8a3789bd58",
+                    "id": "132",
+                    "info": {
+                        "guid": "9c1e4010-d138-48c5-b7ea-844e4ca517cb",
+                        "name": "Ditto",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "7f9afc67-fd90-4904-b136-8c732bb551bd",
+                    "id": "133",
+                    "info": {
+                        "guid": "76dc13eb-4f12-4cae-8a46-d90624c68ac9",
+                        "name": "Eevee",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "767fb525-490c-4792-aeca-39ae6e6365c2",
+                    "id": "134",
+                    "info": {
+                        "guid": "17d7e541-c9fe-408d-81be-95d66efb72b0",
+                        "name": "Vaporeon",
+                        "stage": "2",
+                        "evolved_from": "Eevee",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "d712780b-5368-48bb-aa74-d7ca295ba991",
+                    "id": "135",
+                    "info": {
+                        "guid": "bf00b6a7-3a6c-4de6-9204-b9d778f18a31",
+                        "name": "Jolteon",
+                        "stage": "2",
+                        "evolved_from": "Eevee",
+                        "evolves_to": "",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "103821dd-1827-4832-9091-9ceb9caf72ff",
+                    "id": "136",
+                    "info": {
+                        "guid": "4bfb449c-ffce-4581-b185-e9e3eb075e61",
+                        "name": "Flareon",
+                        "stage": "2",
+                        "evolved_from": "Eevee",
+                        "evolves_to": "",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "40cfdc6e-a11d-493e-a794-93af95ff8672",
+                    "id": "137",
+                    "info": {
+                        "guid": "9332830e-51a1-40af-b00f-a2152c70c6d8",
+                        "name": "Porygon",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Porygon2",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "8c4762a0-268d-476c-973a-73e9a73b2ad7",
+                    "id": "138",
+                    "info": {
+                        "guid": "631b4493-c189-43e0-a6c1-2f4f0875be02",
+                        "name": "Omanyte",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Omastar",
+                        "type_1": "rock",
+                        "type_2": "water",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "160c88c7-2e92-450a-82f5-cbd45c0e7f34",
+                    "id": "139",
+                    "info": {
+                        "guid": "1a8f097e-91d0-4f1e-83ae-7a198fbb196a",
+                        "name": "Omastar",
+                        "stage": "2",
+                        "evolved_from": "Omanyte",
+                        "evolves_to": "",
+                        "type_1": "rock",
+                        "type_2": "water",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "511eb859-59c3-4bff-8cb9-7d8f825a1ec7",
+                    "id": "140",
+                    "info": {
+                        "guid": "084fd7ae-0c2e-4173-b2f0-9a11983dff6e",
+                        "name": "Kabuto",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Kabutops",
+                        "type_1": "rock",
+                        "type_2": "water",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "a615450d-80f6-46b9-bb0b-fdad148916a7",
+                    "id": "141",
+                    "info": {
+                        "guid": "be49ab44-7166-44cf-8b86-f50f5a7673b0",
+                        "name": "Kabutops",
+                        "stage": "2",
+                        "evolved_from": "Kabuto",
+                        "evolves_to": "",
+                        "type_1": "rock",
+                        "type_2": "water",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "b575b21d-50be-4a07-ae0c-0633d8d8e535",
+                    "id": "142",
+                    "info": {
+                        "guid": "2d59e5b8-029e-4f04-8e3b-ccc004e78d87",
+                        "name": "Aerodactyl",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "rock",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": true,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "4ce3f30b-551b-46bd-bbc8-fc084ee825c1",
+                    "id": "143",
+                    "info": {
+                        "guid": "07acdc89-b5ae-431e-8b21-1cd2cb0e4047",
+                        "name": "Snorlax",
+                        "stage": "1",
+                        "evolved_from": "Munchlax",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "0829dfca-1874-4c4b-9de0-9f629e455044",
+                    "id": "144",
+                    "info": {
+                        "guid": "073b6af3-6599-47b8-bdb1-dd5a9f20429f",
+                        "name": "Articuno",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "ice",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": true,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "9f205fd8-e031-44f8-811a-0f9bd00cd7a2",
+                    "id": "145",
+                    "info": {
+                        "guid": "130b6f3a-375b-49b6-acc9-6b055a0b177b",
+                        "name": "Zapdos",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "electric",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": true,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "1e657bb6-ab5c-4a98-a26f-9fceb72ece96",
+                    "id": "146",
+                    "info": {
+                        "guid": "e0ccbc11-1128-4558-b78b-fe9472f64cee",
+                        "name": "Moltres",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "fire",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": true,
+                        "galar": true,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "78d63064-15ba-4b5a-ba29-38c48b650462",
+                    "id": "147",
+                    "info": {
+                        "guid": "8a3580a5-5ff8-41c3-ad8b-6d3f7254f3ab",
+                        "name": "Dratini",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Dragonair",
+                        "type_1": "dragon",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "3be4be70-56b1-4570-bd28-4d8e12660564",
+                    "id": "148",
+                    "info": {
+                        "guid": "27d8f9bd-bd24-43be-8d23-ddd58daf8a32",
+                        "name": "Dragonair",
+                        "stage": "2",
+                        "evolved_from": "Dratini",
+                        "evolves_to": "Dragonite",
+                        "type_1": "dragon",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "5f7c1e60-1251-45ea-81de-2992960d1f48",
+                    "id": "149",
+                    "info": {
+                        "guid": "fd621c39-48f7-4b2e-8ea7-9707ae3be1f6",
+                        "name": "Dragonite",
+                        "stage": "3",
+                        "evolved_from": "Dragonair",
+                        "evolves_to": "",
+                        "type_1": "dragon",
+                        "type_2": "flying",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "6ae72afe-4cc7-4a08-b3b8-1633d4b7b45c",
+                    "id": "150",
+                    "info": {
+                        "guid": "97fe3b18-5843-4f4a-a816-18fb455833bb",
+                        "name": "Mewtwo",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": false,
+                        "legendary": true,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                },
+                {
+                    "guid": "d93b84be-2bd5-4504-ba07-452b676af10e",
+                    "id": "151",
+                    "info": {
+                        "guid": "8c65387b-1909-4de8-b929-3b5f394c46a1",
+                        "name": "Mew",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "",
+                        "baby": false,
+                        "mythic": true,
+                        "legendary": false,
+                        "galar": false,
+                        "mega": false,
+                        "alolan": false,
+                        "hisuian": false
+                    }
+                }
+            ],
+            "hidden": false,
+            "isProps": false,
+            "configurable": {
+                "name": "text",
+                "description": "text",
+                "displayColumn": "columnSelect@name",
+                "columnSelect@name@displayColumn": {
+                    "allowedTypes": [
+                        "int",
+                        "float",
+                        "text",
+                        "longtext"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "info",
+            "description": "props@39dee02f-3bfa-4aee-886e-34d3e79e17c9",
+            "displayColumn": "id",
+            "guid": "03fdbb08-a680-4713-8b54-3b3ad8f6061b",
+            "columns": [
+                {
+                    "typeStr": "text",
+                    "guid": "9fd6b6d9-382d-4fff-9591-7e1f22c55402",
+                    "name": "name",
+                    "description": "",
+                    "defaultValue": "",
+                    "iconName": "newText",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "text"
+                    }
+                },
+                {
+                    "typeStr": "text",
+                    "guid": "b7de57f5-fb64-4777-b860-b8ba0ff7f396",
+                    "name": "stage",
+                    "description": "",
+                    "defaultValue": "",
+                    "iconName": "newText",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "text"
+                    }
+                },
+                {
+                    "typeStr": "text",
+                    "guid": "abe3fd8f-17cc-4675-a29a-d9c2010c32a3",
+                    "name": "evolved_from",
+                    "description": "",
+                    "defaultValue": "",
+                    "iconName": "newText",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "text"
+                    }
+                },
+                {
+                    "typeStr": "text",
+                    "guid": "67b2e746-1871-4f44-b651-48b2f3f1866a",
+                    "name": "evolves_to",
+                    "description": "",
+                    "defaultValue": "",
+                    "iconName": "newText",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "text"
+                    }
+                },
+                {
+                    "typeStr": "enum",
+                    "guid": "fc280f69-92e5-4084-aa3c-b0b951e91c85",
+                    "name": "type_1",
+                    "description": "",
+                    "options": "bug, dark, dragon, electric, fairy, fighting, fire, flying, ghost, grass, ground, ice, normal, poison, psychic, rock, steel, water",
+                    "defaultValue": "",
+                    "iconName": "newEnum",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "text",
+                        "options": "text"
+                    }
+                },
+                {
+                    "typeStr": "enum",
+                    "guid": "5b7e19b8-2df8-4e0c-a39e-8482e59fb798",
+                    "name": "type_2",
+                    "description": "",
+                    "options": "bug, dark, dragon, electric, fairy, fighting, fire, flying, ghost, grass, ground, ice, normal, poison, psychic, rock, steel, water",
+                    "defaultValue": "",
+                    "iconName": "newEnum",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "text",
+                        "options": "text"
+                    }
+                },
+                {
+                    "typeStr": "bool",
+                    "guid": "0b09dc93-bd46-4033-8cd7-5062fff096d4",
+                    "description": "",
+                    "name": "baby",
+                    "defaultValue": false,
+                    "iconName": "newBool",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "bool"
+                    }
+                },
+                {
+                    "typeStr": "bool",
+                    "guid": "90331fcf-9d74-4305-9037-5d00326b682b",
+                    "description": "",
+                    "name": "mythic",
+                    "defaultValue": false,
+                    "iconName": "newBool",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "bool"
+                    }
+                },
+                {
+                    "typeStr": "bool",
+                    "guid": "63da74aa-ecf8-4885-a71d-0d0a87975345",
+                    "description": "",
+                    "name": "legendary",
+                    "defaultValue": false,
+                    "iconName": "newBool",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "bool"
+                    }
+                },
+                {
+                    "typeStr": "bool",
+                    "guid": "9cd8516d-bce6-4931-86d5-aeaaca3ef98c",
+                    "description": "",
+                    "name": "galar",
+                    "defaultValue": false,
+                    "iconName": "newBool",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "bool"
+                    }
+                },
+                {
+                    "typeStr": "bool",
+                    "guid": "ab0788b3-6e1a-4a5f-a74b-63bb31d46175",
+                    "description": "",
+                    "name": "mega",
+                    "defaultValue": false,
+                    "iconName": "newBool",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "bool"
+                    }
+                },
+                {
+                    "typeStr": "bool",
+                    "guid": "3a7dd7c2-83eb-4b3d-a604-807f21c0c92c",
+                    "description": "",
+                    "name": "alolan",
+                    "defaultValue": false,
+                    "iconName": "newBool",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "bool"
+                    }
+                },
+                {
+                    "typeStr": "bool",
+                    "guid": "752aa5a1-107a-4214-a5d3-c746ebb38f86",
+                    "description": "",
+                    "name": "hisuian",
+                    "defaultValue": false,
+                    "iconName": "newBool",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "bool"
+                    }
+                }
+            ],
+            "lines": [],
+            "hidden": true,
+            "isProps": true,
+            "parentSheetGUID": "39dee02f-3bfa-4aee-886e-34d3e79e17c9",
+            "columnGUID": "4d049dd2-b9ae-44ee-a87c-9acba501a538"
+        }
+    ]
+}
