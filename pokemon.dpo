@@ -6825,7 +6825,22 @@
                 {
                     "guid": "8b58b1b0-240f-4788-b799-dc791efe1104",
                     "id": "905",
-                    "info": {}
+                    "info": {
+                        "guid": "57afb9c8-ef44-4459-8dda-1608a146ef9a",
+                        "name": "Enamorus",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "fairy",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 }
             ],
             "hidden": false,
