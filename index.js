@@ -13,7 +13,7 @@ async function Pokemon() {
 	const fetchData = await fetch("pokemon.dpo");
 	const jsonInfo = await fetchData.json();
 	const pokemonInfo = jsonInfo.sheets[0].lines[randomNumber].info;
-	console.log(jsonInfo);
+	console.log(pokemonInfo);
 
 	//Finds pokemon's name
 	const findPokeName = pokemonInfo.name;
@@ -89,10 +89,6 @@ async function Pokemon() {
 	pokeSprite.innerHTML = "<img src=official-artwork/" + randomNumber + ".png>";
 	//Render pokemon's id
 	pokeId.textContent = "#" + jsonInfo.sheets[0].lines[randomNumber].id;
-
-	console.log("Sub Type 1: " + findSubType1);
-	console.log("Sub Type 2: " + findSubType2);
-	console.log("Main Type: " + changeToMainType());
 }
 
 Pokemon();
