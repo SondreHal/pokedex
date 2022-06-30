@@ -10,7 +10,7 @@
                     "typeStr": "props",
                     "guid": "4d049dd2-b9ae-44ee-a87c-9acba501a538",
                     "name": "info",
-                    "description": "new properties field",
+                    "description": "",
                     "sheet": "03fdbb08-a680-4713-8b54-3b3ad8f6061b",
                     "defaultValue": {},
                     "iconName": "newProps",
