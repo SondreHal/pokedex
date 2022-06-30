@@ -32,14 +32,9 @@
                         "type_1": "",
                         "type_2": "",
                         "evolved_from": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [],
+                        "is_form": []
                     }
                 },
                 {
@@ -53,14 +48,13 @@
                         "type_1": "grass",
                         "type_2": "poison",
                         "evolved_from": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -74,14 +68,13 @@
                         "type_1": "grass",
                         "type_2": "poison",
                         "evolved_from": "Bulbasaur",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "1"
+                        "evolved_from_id": "1",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -95,14 +88,13 @@
                         "type_1": "grass",
                         "type_2": "poison",
                         "evolved_from": "Ivysaur",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "2"
+                        "evolved_from_id": "2",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -116,14 +108,13 @@
                         "type_1": "fire",
                         "type_2": "",
                         "evolved_from": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -137,14 +128,13 @@
                         "type_1": "fire",
                         "type_2": "",
                         "evolved_from": "Charmander",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "4"
+                        "evolved_from_id": "4",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -158,14 +148,13 @@
                         "type_1": "fire",
                         "type_2": "flying",
                         "evolved_from": "Charmeleon",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "5"
+                        "evolved_from_id": "5",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -179,14 +168,13 @@
                         "evolves_to": "Wartortle",
                         "type_1": "water",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -200,14 +188,13 @@
                         "evolves_to": "Blastoise",
                         "type_1": "water",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "7"
+                        "evolved_from_id": "7",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -221,14 +208,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "8"
+                        "evolved_from_id": "8",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -242,14 +228,13 @@
                         "evolves_to": "Metapod",
                         "type_1": "bug",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -263,14 +248,13 @@
                         "evolves_to": "Butterfree",
                         "type_1": "bug",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "10"
+                        "evolved_from_id": "10",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -284,14 +268,13 @@
                         "evolves_to": "",
                         "type_1": "bug",
                         "type_2": "flying",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "11"
+                        "evolved_from_id": "11",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -305,14 +288,13 @@
                         "evolves_to": "Kakuna",
                         "type_1": "bug",
                         "type_2": "poison",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -326,14 +308,13 @@
                         "evolves_to": "Beedrill",
                         "type_1": "bug",
                         "type_2": "poison",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "13"
+                        "evolved_from_id": "13",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -347,14 +328,13 @@
                         "evolves_to": "",
                         "type_1": "bug",
                         "type_2": "poison",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "14"
+                        "evolved_from_id": "14",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -368,14 +348,13 @@
                         "evolves_to": "Pidgeotto",
                         "type_1": "normal",
                         "type_2": "flying",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -389,14 +368,13 @@
                         "evolves_to": "Pidgeot",
                         "type_1": "normal",
                         "type_2": "flying",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "16"
+                        "evolved_from_id": "16",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -410,14 +388,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "flying",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "17"
+                        "evolved_from_id": "17",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -431,14 +408,13 @@
                         "evolves_to": "Raticate",
                         "type_1": "normal",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -452,14 +428,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "19"
+                        "evolved_from_id": "19",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -473,14 +448,13 @@
                         "evolves_to": "Fearow",
                         "type_1": "normal",
                         "type_2": "flying",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -494,14 +468,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "flying",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "21"
+                        "evolved_from_id": "21",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -515,14 +488,13 @@
                         "evolves_to": "Arbok",
                         "type_1": "poison",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -536,14 +508,13 @@
                         "evolves_to": "",
                         "type_1": "poison",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "23"
+                        "evolved_from_id": "23",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -557,14 +528,13 @@
                         "evolves_to": "Raichu",
                         "type_1": "electric",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "172"
+                        "evolved_from_id": "172",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -578,14 +548,13 @@
                         "evolves_to": "",
                         "type_1": "electric",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "25"
+                        "evolved_from_id": "25",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -599,14 +568,13 @@
                         "evolves_to": "Sandslash",
                         "type_1": "ground",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -620,14 +588,13 @@
                         "evolves_to": "",
                         "type_1": "ground",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "27"
+                        "evolved_from_id": "27",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -641,14 +608,13 @@
                         "evolves_to": "Nidorina",
                         "type_1": "poison",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -662,14 +628,13 @@
                         "evolves_to": "Nidoqueen",
                         "type_1": "poison",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "29"
+                        "evolved_from_id": "29",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -683,14 +648,13 @@
                         "evolves_to": "",
                         "type_1": "poison",
                         "type_2": "ground",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "30"
+                        "evolved_from_id": "30",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -704,14 +668,13 @@
                         "evolves_to": "Nidorino",
                         "type_1": "poison",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -725,14 +688,13 @@
                         "evolves_to": "Nidoking",
                         "type_1": "poison",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "32"
+                        "evolved_from_id": "32",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -746,14 +708,13 @@
                         "evolves_to": "",
                         "type_1": "poison",
                         "type_2": "ground",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "33"
+                        "evolved_from_id": "33",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -767,14 +728,13 @@
                         "evolves_to": "Clefable",
                         "type_1": "fairy",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "173"
+                        "evolved_from_id": "173",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -788,14 +748,13 @@
                         "evolves_to": "",
                         "type_1": "fairy",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "35"
+                        "evolved_from_id": "35",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -809,14 +768,13 @@
                         "evolves_to": "Ninetales",
                         "type_1": "fire",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -830,14 +788,13 @@
                         "evolves_to": "",
                         "type_1": "fire",
                         "type_2": "",
-                        "legendary": false,
-                        "baby": false,
-                        "mythic": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "37"
+                        "evolved_from_id": "37",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -851,14 +808,13 @@
                         "evolves_to": "Wigglytuff",
                         "type_1": "normal",
                         "type_2": "fairy",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "174"
+                        "evolved_from_id": "174",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -872,14 +828,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "fairy",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "39"
+                        "evolved_from_id": "39",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -893,14 +848,13 @@
                         "evolves_to": "Golbat",
                         "type_1": "poison",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -914,14 +868,13 @@
                         "evolves_to": "",
                         "type_1": "poison",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "41"
+                        "evolved_from_id": "41",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -935,14 +888,13 @@
                         "evolves_to": "Gloom",
                         "type_1": "grass",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -956,14 +908,13 @@
                         "evolves_to": "Vileplume",
                         "type_1": "grass",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "43"
+                        "evolved_from_id": "43",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -977,14 +928,13 @@
                         "evolves_to": "",
                         "type_1": "grass",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "44"
+                        "evolved_from_id": "44",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -998,14 +948,13 @@
                         "evolves_to": "Parasect",
                         "type_1": "bug",
                         "type_2": "grass",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1019,14 +968,13 @@
                         "evolves_to": "",
                         "type_1": "bug",
                         "type_2": "grass",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "46"
+                        "evolved_from_id": "46",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1040,14 +988,13 @@
                         "evolves_to": "Venomoth",
                         "type_1": "bug",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1061,14 +1008,13 @@
                         "evolves_to": "",
                         "type_1": "bug",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "48"
+                        "evolved_from_id": "48",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1082,14 +1028,13 @@
                         "evolves_to": "Dugtrio",
                         "type_1": "ground",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1103,14 +1048,13 @@
                         "evolves_to": "",
                         "type_1": "ground",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "50"
+                        "evolved_from_id": "50",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1124,14 +1068,13 @@
                         "evolves_to": "Persian",
                         "type_1": "normal",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": true,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1145,14 +1088,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": true,
-                        "hisuian": false,
-                        "evolved_from_id": "52"
+                        "evolved_from_id": "52",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1166,14 +1108,13 @@
                         "evolves_to": "Golduck",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1187,14 +1128,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "54"
+                        "evolved_from_id": "54",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1208,14 +1148,13 @@
                         "evolves_to": "Primeape",
                         "type_1": "fighting",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1229,14 +1168,13 @@
                         "evolves_to": "",
                         "type_1": "fighting",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "56"
+                        "evolved_from_id": "56",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1250,14 +1188,13 @@
                         "evolves_to": "Arcanine",
                         "type_1": "fire",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": true,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1271,14 +1208,13 @@
                         "evolves_to": "",
                         "type_1": "fire",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": true,
-                        "evolved_from_id": "58"
+                        "evolved_from_id": "58",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1292,14 +1228,13 @@
                         "evolves_to": "Poliwhirl",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1313,14 +1248,13 @@
                         "evolves_to": "Poliwrath",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "60"
+                        "evolved_from_id": "60",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1334,14 +1268,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "fighting",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "61"
+                        "evolved_from_id": "61",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1355,14 +1288,13 @@
                         "evolves_to": "Kadabra",
                         "type_1": "psychic",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1376,14 +1308,13 @@
                         "evolves_to": "Alakazam",
                         "type_1": "psychic",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "63"
+                        "evolved_from_id": "63",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1397,14 +1328,13 @@
                         "evolves_to": "",
                         "type_1": "psychic",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "64"
+                        "evolved_from_id": "64",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1418,14 +1348,13 @@
                         "evolves_to": "Machoke",
                         "type_1": "fighting",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1439,14 +1368,13 @@
                         "evolves_to": "Machamp",
                         "type_1": "fighting",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "66"
+                        "evolved_from_id": "66",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1460,14 +1388,13 @@
                         "evolves_to": "",
                         "type_1": "fighting",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "67"
+                        "evolved_from_id": "67",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1481,14 +1408,13 @@
                         "evolves_to": "Weepinbell",
                         "type_1": "grass",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1502,14 +1428,13 @@
                         "evolves_to": "Victrebell",
                         "type_1": "grass",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "69"
+                        "evolved_from_id": "69",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1523,14 +1448,13 @@
                         "evolves_to": "",
                         "type_1": "grass",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "70"
+                        "evolved_from_id": "70",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1544,14 +1468,13 @@
                         "evolves_to": "Tentacruel",
                         "type_1": "water",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1565,14 +1488,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "72"
+                        "evolved_from_id": "72",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1586,14 +1508,13 @@
                         "evolves_to": "Graveler",
                         "type_1": "rock",
                         "type_2": "ground",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": true,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1607,14 +1528,13 @@
                         "evolves_to": "Golem",
                         "type_1": "rock",
                         "type_2": "ground",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": true,
-                        "hisuian": false,
-                        "evolved_from_id": "74"
+                        "evolved_from_id": "74",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1628,14 +1548,13 @@
                         "evolves_to": "",
                         "type_1": "rock",
                         "type_2": "ground",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": true,
-                        "hisuian": false,
-                        "evolved_from_id": "75"
+                        "evolved_from_id": "75",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1649,14 +1568,13 @@
                         "evolves_to": "Rapidash",
                         "type_1": "fire",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1670,14 +1588,13 @@
                         "evolves_to": "",
                         "type_1": "fire",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "77"
+                        "evolved_from_id": "77",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1691,14 +1608,13 @@
                         "evolves_to": "Slowbro",
                         "type_1": "water",
                         "type_2": "psychic",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1712,14 +1628,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "psychic",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": true,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "79"
+                        "evolved_from_id": "79",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1733,14 +1648,13 @@
                         "evolves_to": "Magneton",
                         "type_1": "electric",
                         "type_2": "steel",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1754,14 +1668,13 @@
                         "evolves_to": "",
                         "type_1": "electric",
                         "type_2": "steel",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "81"
+                        "evolved_from_id": "81",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1775,14 +1688,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1796,14 +1708,13 @@
                         "evolves_to": "Dodrio",
                         "type_1": "normal",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1817,14 +1728,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "84"
+                        "evolved_from_id": "84",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1838,14 +1748,13 @@
                         "evolves_to": "Dewgong",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1859,14 +1768,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "ice",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "86"
+                        "evolved_from_id": "86",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1880,14 +1788,13 @@
                         "evolves_to": "Muk",
                         "type_1": "poison",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": true,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1901,14 +1808,13 @@
                         "evolves_to": "",
                         "type_1": "poison",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": true,
-                        "hisuian": false,
-                        "evolved_from_id": "88"
+                        "evolved_from_id": "88",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1922,14 +1828,13 @@
                         "evolves_to": "Cloyster",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1943,14 +1848,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "ice",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "90"
+                        "evolved_from_id": "90",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1964,14 +1868,13 @@
                         "evolves_to": "Haunter",
                         "type_1": "ghost",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -1985,14 +1888,13 @@
                         "evolves_to": "Gengar",
                         "type_1": "ghost",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "92"
+                        "evolved_from_id": "92",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2006,14 +1908,13 @@
                         "evolves_to": "",
                         "type_1": "ghost",
                         "type_2": "poison",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "93"
+                        "evolved_from_id": "93",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2027,14 +1928,13 @@
                         "evolves_to": "Steelix",
                         "type_1": "rock",
                         "type_2": "ground",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2048,14 +1948,13 @@
                         "evolves_to": "Hypno",
                         "type_1": "psychic",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2069,14 +1968,13 @@
                         "evolves_to": "",
                         "type_1": "psychic",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "96"
+                        "evolved_from_id": "96",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2090,14 +1988,13 @@
                         "evolves_to": "Kingler",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2111,14 +2008,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "98"
+                        "evolved_from_id": "98",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2132,14 +2028,13 @@
                         "evolves_to": "Electrode",
                         "type_1": "electric",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": true,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2153,14 +2048,13 @@
                         "evolves_to": "",
                         "type_1": "electric",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": true,
-                        "evolved_from_id": "100"
+                        "evolved_from_id": "100",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2174,14 +2068,13 @@
                         "evolves_to": "Exeggutor",
                         "type_1": "grass",
                         "type_2": "psychic",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2195,14 +2088,13 @@
                         "evolves_to": "",
                         "type_1": "grass",
                         "type_2": "psychic",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": true,
-                        "hisuian": false,
-                        "evolved_from_id": "102"
+                        "evolved_from_id": "102",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2216,14 +2108,13 @@
                         "evolves_to": "Marowak",
                         "type_1": "ground",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2237,14 +2128,13 @@
                         "evolves_to": "",
                         "type_1": "ground",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": true,
-                        "hisuian": false,
-                        "evolved_from_id": "104"
+                        "evolved_from_id": "104",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2258,14 +2148,13 @@
                         "evolves_to": "",
                         "type_1": "fighting",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "236"
+                        "evolved_from_id": "236",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2279,14 +2168,13 @@
                         "evolves_to": "",
                         "type_1": "fighting",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "236"
+                        "evolved_from_id": "236",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2300,14 +2188,13 @@
                         "evolves_to": "Lickilicky",
                         "type_1": "normal",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2321,14 +2208,13 @@
                         "evolves_to": "Weezing",
                         "type_1": "poison",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2342,14 +2228,13 @@
                         "evolves_to": "",
                         "type_1": "poison",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "109"
+                        "evolved_from_id": "109",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2363,14 +2248,13 @@
                         "evolves_to": "Rhydon",
                         "type_1": "ground",
                         "type_2": "rock",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2384,14 +2268,13 @@
                         "evolves_to": "Rhyperior",
                         "type_1": "ground",
                         "type_2": "rock",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "111"
+                        "evolved_from_id": "111",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2405,14 +2288,13 @@
                         "evolves_to": "Blissey",
                         "type_1": "normal",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "440"
+                        "evolved_from_id": "440",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2426,14 +2308,13 @@
                         "evolves_to": "Tangrowth",
                         "type_1": "grass",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2447,14 +2328,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2468,14 +2348,13 @@
                         "evolves_to": "Seadra",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2489,14 +2368,13 @@
                         "evolves_to": "Kingdra",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "116"
+                        "evolved_from_id": "116",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2510,14 +2388,13 @@
                         "evolves_to": "Seaking",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2531,14 +2408,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "118"
+                        "evolved_from_id": "118",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2552,14 +2428,13 @@
                         "evolves_to": "Starmie",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2573,14 +2448,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "psychic",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "120"
+                        "evolved_from_id": "120",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2594,14 +2468,13 @@
                         "evolves_to": "",
                         "type_1": "psychic",
                         "type_2": "fairy",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "439"
+                        "evolved_from_id": "439",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2615,14 +2488,13 @@
                         "evolves_to": "Scizor & Kleavor",
                         "type_1": "bug",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2636,14 +2508,13 @@
                         "evolves_to": "",
                         "type_1": "ice",
                         "type_2": "psychic",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "238"
+                        "evolved_from_id": "238",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2657,14 +2528,13 @@
                         "evolves_to": "Electivire",
                         "type_1": "electric",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "239"
+                        "evolved_from_id": "239",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2678,14 +2548,13 @@
                         "evolves_to": "Magmortar",
                         "type_1": "fire",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "240"
+                        "evolved_from_id": "240",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2699,14 +2568,13 @@
                         "evolves_to": "",
                         "type_1": "bug",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2720,14 +2588,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2741,14 +2608,13 @@
                         "evolves_to": "Gyarados",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2762,14 +2628,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "129"
+                        "evolved_from_id": "129",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2783,14 +2648,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "ice",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2804,14 +2668,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2825,14 +2688,13 @@
                         "evolves_to": "Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon",
                         "type_1": "normal",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2846,14 +2708,13 @@
                         "evolves_to": "",
                         "type_1": "water",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "133"
+                        "evolved_from_id": "133",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2867,14 +2728,13 @@
                         "evolves_to": "",
                         "type_1": "electric",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "133"
+                        "evolved_from_id": "133",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2888,14 +2748,13 @@
                         "evolves_to": "",
                         "type_1": "fire",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "133"
+                        "evolved_from_id": "133",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2909,14 +2768,13 @@
                         "evolves_to": "Porygon2",
                         "type_1": "normal",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2930,14 +2788,13 @@
                         "evolves_to": "Omastar",
                         "type_1": "rock",
                         "type_2": "water",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2951,14 +2808,13 @@
                         "evolves_to": "",
                         "type_1": "rock",
                         "type_2": "water",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "138"
+                        "evolved_from_id": "138",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2972,14 +2828,13 @@
                         "evolves_to": "Kabutops",
                         "type_1": "rock",
                         "type_2": "water",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -2993,14 +2848,13 @@
                         "evolves_to": "",
                         "type_1": "rock",
                         "type_2": "water",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "140"
+                        "evolved_from_id": "140",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -3014,14 +2868,13 @@
                         "evolves_to": "",
                         "type_1": "rock",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": true,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -3035,14 +2888,13 @@
                         "evolves_to": "",
                         "type_1": "normal",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "446"
+                        "evolved_from_id": "446",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -3056,14 +2908,13 @@
                         "evolves_to": "",
                         "type_1": "ice",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": true,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -3077,14 +2928,13 @@
                         "evolves_to": "",
                         "type_1": "electric",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": true,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -3098,14 +2948,13 @@
                         "evolves_to": "",
                         "type_1": "fire",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": true,
-                        "galar": true,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -3119,14 +2968,13 @@
                         "evolves_to": "Dragonair",
                         "type_1": "dragon",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -3140,14 +2988,13 @@
                         "evolves_to": "Dragonite",
                         "type_1": "dragon",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "147"
+                        "evolved_from_id": "147",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -3161,14 +3008,13 @@
                         "evolves_to": "",
                         "type_1": "dragon",
                         "type_2": "flying",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": "148"
+                        "evolved_from_id": "148",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -3182,14 +3028,13 @@
                         "evolves_to": "",
                         "type_1": "psychic",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": false,
-                        "legendary": true,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -3203,14 +3048,13 @@
                         "evolves_to": "",
                         "type_1": "psychic",
                         "type_2": "",
-                        "baby": false,
-                        "mythic": true,
-                        "legendary": false,
-                        "galar": false,
-                        "mega": false,
-                        "alolan": false,
-                        "hisuian": false,
-                        "evolved_from_id": ""
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
                     }
                 },
                 {
@@ -7089,97 +6933,6 @@
                     }
                 },
                 {
-                    "typeStr": "bool",
-                    "guid": "0b09dc93-bd46-4033-8cd7-5062fff096d4",
-                    "description": "",
-                    "name": "baby",
-                    "defaultValue": false,
-                    "iconName": "newBool",
-                    "configurable": {
-                        "name": "text",
-                        "description": "text",
-                        "defaultValue": "bool"
-                    }
-                },
-                {
-                    "typeStr": "bool",
-                    "guid": "90331fcf-9d74-4305-9037-5d00326b682b",
-                    "description": "",
-                    "name": "mythic",
-                    "defaultValue": false,
-                    "iconName": "newBool",
-                    "configurable": {
-                        "name": "text",
-                        "description": "text",
-                        "defaultValue": "bool"
-                    }
-                },
-                {
-                    "typeStr": "bool",
-                    "guid": "63da74aa-ecf8-4885-a71d-0d0a87975345",
-                    "description": "",
-                    "name": "legendary",
-                    "defaultValue": false,
-                    "iconName": "newBool",
-                    "configurable": {
-                        "name": "text",
-                        "description": "text",
-                        "defaultValue": "bool"
-                    }
-                },
-                {
-                    "typeStr": "bool",
-                    "guid": "9cd8516d-bce6-4931-86d5-aeaaca3ef98c",
-                    "description": "",
-                    "name": "galar",
-                    "defaultValue": false,
-                    "iconName": "newBool",
-                    "configurable": {
-                        "name": "text",
-                        "description": "text",
-                        "defaultValue": "bool"
-                    }
-                },
-                {
-                    "typeStr": "bool",
-                    "guid": "ab0788b3-6e1a-4a5f-a74b-63bb31d46175",
-                    "description": "",
-                    "name": "mega",
-                    "defaultValue": false,
-                    "iconName": "newBool",
-                    "configurable": {
-                        "name": "text",
-                        "description": "text",
-                        "defaultValue": "bool"
-                    }
-                },
-                {
-                    "typeStr": "bool",
-                    "guid": "3a7dd7c2-83eb-4b3d-a604-807f21c0c92c",
-                    "description": "",
-                    "name": "alolan",
-                    "defaultValue": false,
-                    "iconName": "newBool",
-                    "configurable": {
-                        "name": "text",
-                        "description": "text",
-                        "defaultValue": "bool"
-                    }
-                },
-                {
-                    "typeStr": "bool",
-                    "guid": "752aa5a1-107a-4214-a5d3-c746ebb38f86",
-                    "description": "",
-                    "name": "hisuian",
-                    "defaultValue": false,
-                    "iconName": "newBool",
-                    "configurable": {
-                        "name": "text",
-                        "description": "text",
-                        "defaultValue": "bool"
-                    }
-                },
-                {
                     "typeStr": "text",
                     "guid": "bf3c2cb2-0434-408f-8fc4-8b9078ced151",
                     "name": "evolved_from_id",
@@ -7190,6 +6943,52 @@
                         "name": "text",
                         "description": "text",
                         "defaultValue": "text"
+                    }
+                },
+                {
+                    "typeStr": "multiple",
+                    "guid": "e1bd9692-cc64-4afc-9777-49c025b6e8a1",
+                    "name": "regional_forms",
+                    "description": "",
+                    "options": "galarian, alolan, hisuian",
+                    "defaultValue": "",
+                    "iconName": "newMulti",
+                    "displayType": "vertical",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "text",
+                        "options": "text",
+                        "displayType": "enum",
+                        "enum@displayType": {
+                            "options": [
+                                "vertical",
+                                "horizontal"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "typeStr": "multiple",
+                    "guid": "4e73fb6e-e1f5-4f75-9272-88a05388179e",
+                    "name": "is_form",
+                    "description": "",
+                    "options": "legendary, mythical, mega, primal, baby",
+                    "defaultValue": "",
+                    "iconName": "newMulti",
+                    "displayType": "vertical",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "text",
+                        "options": "text",
+                        "displayType": "enum",
+                        "enum@displayType": {
+                            "options": [
+                                "vertical",
+                                "horizontal"
+                            ]
+                        }
                     }
                 }
             ],
