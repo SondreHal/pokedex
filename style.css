@@ -19,15 +19,15 @@ body {
 	font-family: Gill-medium;
 }
 
-.active {
-	/*Box model stuff*/
-	background-color: rgb(231, 231, 231);
-	color: rgb(21, 22, 26);
-}
-
 .nav-item {
 	list-style-type: none;
-	background-color: rgb(206, 206, 206);
+	background-color: rgb(21, 22, 26);
+}
+
+.active-nav-item {
+	/*Box model stuff*/
+	color: rgb(21, 22, 26);
+	border-bottom: 2px solid rgb(206, 206, 206);
 }
 
 .nav-item a {
@@ -37,10 +37,11 @@ body {
 	padding: 14px 16px;
 	/*Typography stuff*/
 	text-decoration: none;
-	color: rgb(21, 22, 26);
+	color: rgb(206, 206, 206);
 }
 .nav-item a:hover {
 	/*Box model stuff*/
+	color: rgb(21, 22, 26);
 	background-color: rgb(231, 231, 231);
 }
 
@@ -57,7 +58,7 @@ body {
 	/*Box model stuff*/
 	width: 420px;
 	height: 590px;
-	margin: -100px auto 30px;
+	margin: 100px auto 30px;
 	border-radius: 22px;
 }
 

@@ -393,7 +393,7 @@
                             ""
                         ],
                         "is_form": [
-                            ""
+                            "mega"
                         ]
                     }
                 },
@@ -410,7 +410,7 @@
                         "type_2": "",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -430,7 +430,7 @@
                         "type_2": "",
                         "evolved_from_id": "19",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -550,7 +550,7 @@
                         "type_2": "",
                         "evolved_from_id": "25",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -570,7 +570,7 @@
                         "type_2": "",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -590,7 +590,7 @@
                         "type_2": "",
                         "evolved_from_id": "27",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -770,7 +770,7 @@
                         "type_2": "",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -790,7 +790,7 @@
                         "type_2": "",
                         "evolved_from_id": "37",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -905,7 +905,7 @@
                         "name": "Gloom",
                         "stage": "2",
                         "evolved_from": "Oddish",
-                        "evolves_to": "Vileplume",
+                        "evolves_to": "Vileplume & Bellossom",
                         "type_1": "grass",
                         "type_2": "poison",
                         "evolved_from_id": "43",
@@ -1030,7 +1030,7 @@
                         "type_2": "",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -1050,7 +1050,7 @@
                         "type_2": "",
                         "evolved_from_id": "50",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -1070,7 +1070,8 @@
                         "type_2": "",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "galarian",
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -1090,7 +1091,7 @@
                         "type_2": "",
                         "evolved_from_id": "52",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -1190,7 +1191,7 @@
                         "type_2": "",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "hisuian"
                         ],
                         "is_form": [
                             ""
@@ -1210,7 +1211,7 @@
                         "type_2": "",
                         "evolved_from_id": "58",
                         "regional_forms": [
-                            ""
+                            "hisuian"
                         ],
                         "is_form": [
                             ""
@@ -1245,7 +1246,7 @@
                         "name": "Poliwhirl",
                         "stage": "2",
                         "evolved_from": "Poliwag",
-                        "evolves_to": "Poliwrath",
+                        "evolves_to": "Poliwrath & Politoed",
                         "type_1": "water",
                         "type_2": "",
                         "evolved_from_id": "60",
@@ -1333,7 +1334,7 @@
                             ""
                         ],
                         "is_form": [
-                            ""
+                            "mega"
                         ]
                     }
                 },
@@ -1510,7 +1511,7 @@
                         "type_2": "ground",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -1530,7 +1531,7 @@
                         "type_2": "ground",
                         "evolved_from_id": "74",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -1550,7 +1551,7 @@
                         "type_2": "ground",
                         "evolved_from_id": "75",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -1570,7 +1571,7 @@
                         "type_2": "",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "galarian"
                         ],
                         "is_form": [
                             ""
@@ -1590,7 +1591,7 @@
                         "type_2": "",
                         "evolved_from_id": "77",
                         "regional_forms": [
-                            ""
+                            "galarian"
                         ],
                         "is_form": [
                             ""
@@ -1605,12 +1606,12 @@
                         "name": "Slowpoke",
                         "stage": "1",
                         "evolved_from": "",
-                        "evolves_to": "Slowbro",
+                        "evolves_to": "Slowbro & Slowking",
                         "type_1": "water",
                         "type_2": "psychic",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "galarian"
                         ],
                         "is_form": [
                             ""
@@ -1630,10 +1631,10 @@
                         "type_2": "psychic",
                         "evolved_from_id": "79",
                         "regional_forms": [
-                            ""
+                            "galarian"
                         ],
                         "is_form": [
-                            ""
+                            "mega"
                         ]
                     }
                 },
@@ -1690,7 +1691,7 @@
                         "type_2": "flying",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "galarian"
                         ],
                         "is_form": [
                             ""
@@ -1790,7 +1791,7 @@
                         "type_2": "",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -1810,7 +1811,7 @@
                         "type_2": "",
                         "evolved_from_id": "88",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -1913,7 +1914,7 @@
                             ""
                         ],
                         "is_form": [
-                            ""
+                            "mega"
                         ]
                     }
                 },
@@ -2030,7 +2031,7 @@
                         "type_2": "",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "hisuian"
                         ],
                         "is_form": [
                             ""
@@ -2050,7 +2051,7 @@
                         "type_2": "",
                         "evolved_from_id": "100",
                         "regional_forms": [
-                            ""
+                            "hisuian"
                         ],
                         "is_form": [
                             ""
@@ -2090,7 +2091,7 @@
                         "type_2": "psychic",
                         "evolved_from_id": "102",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -2130,7 +2131,7 @@
                         "type_2": "",
                         "evolved_from_id": "104",
                         "regional_forms": [
-                            ""
+                            "alolan"
                         ],
                         "is_form": [
                             ""
@@ -2230,7 +2231,7 @@
                         "type_2": "",
                         "evolved_from_id": "109",
                         "regional_forms": [
-                            ""
+                            "galarian"
                         ],
                         "is_form": [
                             ""
@@ -2333,7 +2334,7 @@
                             ""
                         ],
                         "is_form": [
-                            ""
+                            "mega"
                         ]
                     }
                 },
@@ -2470,7 +2471,7 @@
                         "type_2": "fairy",
                         "evolved_from_id": "439",
                         "regional_forms": [
-                            ""
+                            "galarian"
                         ],
                         "is_form": [
                             ""
@@ -2573,7 +2574,7 @@
                             ""
                         ],
                         "is_form": [
-                            ""
+                            "mega"
                         ]
                     }
                 },
@@ -2633,7 +2634,7 @@
                             ""
                         ],
                         "is_form": [
-                            ""
+                            "mega"
                         ]
                     }
                 },
@@ -2873,7 +2874,7 @@
                             ""
                         ],
                         "is_form": [
-                            ""
+                            "mega"
                         ]
                     }
                 },
@@ -2910,7 +2911,7 @@
                         "type_2": "flying",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "galarian"
                         ],
                         "is_form": [
                             ""
@@ -2930,7 +2931,7 @@
                         "type_2": "flying",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "galarian"
                         ],
                         "is_form": [
                             ""
@@ -2950,7 +2951,7 @@
                         "type_2": "flying",
                         "evolved_from_id": "",
                         "regional_forms": [
-                            ""
+                            "galarian"
                         ],
                         "is_form": [
                             ""
@@ -3033,7 +3034,7 @@
                             ""
                         ],
                         "is_form": [
-                            ""
+                            "mega"
                         ]
                     }
                 },
@@ -3060,502 +3061,2002 @@
                 {
                     "guid": "2fc2b604-9f04-45e8-bd21-a4e630ed1e20",
                     "id": "152",
-                    "info": {}
+                    "info": {
+                        "guid": "5bae5cd8-9d1e-4488-9757-33bdb053e384",
+                        "name": "Chikorita",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Bayleef",
+                        "type_1": "grass",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "e24dc79b-84ce-4d95-b422-d2fcc1c8e166",
                     "id": "153",
-                    "info": {}
+                    "info": {
+                        "guid": "16c4d9f7-3720-4210-a613-7f8bf3fe3a20",
+                        "name": "Bayleef",
+                        "stage": "2",
+                        "evolved_from": "Chikorita",
+                        "evolves_to": "Meganium",
+                        "type_1": "grass",
+                        "type_2": "",
+                        "evolved_from_id": "152",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "2b254da6-a023-416f-868b-6a426a161803",
                     "id": "154",
-                    "info": {}
+                    "info": {
+                        "guid": "0618c084-3918-4d9a-befe-057ccd52ab99",
+                        "name": "Meganium",
+                        "stage": "3",
+                        "evolved_from": "Bayleef",
+                        "evolves_to": "",
+                        "type_1": "grass",
+                        "type_2": "",
+                        "evolved_from_id": "153",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "5175db9a-5aec-41bc-934f-7232943911ab",
                     "id": "155",
-                    "info": {}
+                    "info": {
+                        "guid": "eef5b867-2ca5-43cb-b43d-58579757fe37",
+                        "name": "Cyndaquil",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Quilava",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "7cf09d83-dec4-4d19-957c-3f6714a1d47e",
                     "id": "156",
-                    "info": {}
+                    "info": {
+                        "guid": "47aa274a-d062-468c-a792-1a06bcdd0f37",
+                        "name": "Quilava",
+                        "stage": "2",
+                        "evolved_from": "Cyndaquil",
+                        "evolves_to": "Typhlosion",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "evolved_from_id": "155",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "f0da5e51-2490-4d73-a2de-abf310ea1231",
                     "id": "157",
-                    "info": {}
+                    "info": {
+                        "guid": "fe8bcf2f-70a3-4341-91f8-e2be16cbbd91",
+                        "name": "Typhlosion",
+                        "stage": "3",
+                        "evolved_from": "Quilava",
+                        "evolves_to": "",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "evolved_from_id": "156",
+                        "regional_forms": [
+                            "hisuian"
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "611213e7-f05b-4f13-bd62-9ad84f72e799",
                     "id": "158",
-                    "info": {}
+                    "info": {
+                        "guid": "ed6ed272-c1ea-4c39-8d75-9c7b700d1412",
+                        "name": "Totodile",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Croconaw",
+                        "type_1": "water",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "67cf6266-5a85-4264-bf93-29c3ddbfc775",
                     "id": "159",
-                    "info": {}
+                    "info": {
+                        "guid": "76d851ae-058c-41eb-91f6-6e6c14823e65",
+                        "name": "Croconaw",
+                        "stage": "2",
+                        "evolved_from": "Totodile",
+                        "evolves_to": "Feraligatr",
+                        "type_1": "water",
+                        "type_2": "",
+                        "evolved_from_id": "158",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "53a6fef5-ef8e-4414-82b0-ca8cc09e784b",
                     "id": "160",
-                    "info": {}
+                    "info": {
+                        "guid": "9667dada-c4df-465f-81fa-dac20c8c3930",
+                        "name": "Feraligatr",
+                        "stage": "3",
+                        "evolved_from": "Croconaw",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "",
+                        "evolved_from_id": "159",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "e8a5471d-afe4-4217-934e-6e91fe718abc",
                     "id": "161",
-                    "info": {}
+                    "info": {
+                        "guid": "facb88e5-e170-418f-bf71-dfcd19a25e83",
+                        "name": "Sentret",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Furret",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "282a2df3-04ee-401d-8ba7-54eded803dc2",
                     "id": "162",
-                    "info": {}
+                    "info": {
+                        "guid": "19b71234-1af2-4c54-969a-c5702350ea9a",
+                        "name": "Furret",
+                        "stage": "2",
+                        "evolved_from": "Sentret",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "161",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "c2b92fde-b1de-4272-b5bb-c9b5f501cbb4",
                     "id": "163",
-                    "info": {}
+                    "info": {
+                        "guid": "789a5b79-4aac-469e-b3df-1d8b4141ced5",
+                        "name": "Hoothoot",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Noctowl",
+                        "type_1": "normal",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "8b2bf043-496f-46e6-a61b-6ef06b98df85",
                     "id": "164",
-                    "info": {}
+                    "info": {
+                        "guid": "0a88a7e6-1991-4aee-9058-e5938f9d0c09",
+                        "name": "Noctowl",
+                        "stage": "2",
+                        "evolved_from": "Hoothoot",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "flying",
+                        "evolved_from_id": "163",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "89f2d95a-d422-4f89-9d6b-605f7b463a30",
                     "id": "165",
-                    "info": {}
+                    "info": {
+                        "guid": "9dca46bd-b967-4a1e-9df1-696191bc6b20",
+                        "name": "Ledyba",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Ledian",
+                        "type_1": "bug",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "6ecc82a3-c722-4690-b3a3-68a2a266dc3a",
                     "id": "166",
-                    "info": {}
+                    "info": {
+                        "guid": "946e311e-3f5a-40f6-9fbe-33c45155984b",
+                        "name": "Ledian",
+                        "stage": "2",
+                        "evolved_from": "Ledyba",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "flying",
+                        "evolved_from_id": "165",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "12613a60-4ee4-472e-a29d-330ebde8221a",
                     "id": "167",
-                    "info": {}
+                    "info": {
+                        "guid": "0fc74ff7-ac12-4626-92af-b748c76934c1",
+                        "name": "Spinarak",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Ariados",
+                        "type_1": "bug",
+                        "type_2": "poison",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "6a7f9cbf-6af4-4e3c-b03a-a1f5bf1505f2",
                     "id": "168",
-                    "info": {}
+                    "info": {
+                        "guid": "20423cdc-458a-4e1d-9595-08aa9c1812af",
+                        "name": "Ariados",
+                        "stage": "2",
+                        "evolved_from": "Spinarak",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "poison",
+                        "evolved_from_id": "167",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "1d8fb9d0-d9e4-404b-bb75-3998eeac5b76",
                     "id": "169",
-                    "info": {}
+                    "info": {
+                        "guid": "a6b0600a-1481-4f73-ba56-d1df4291a890",
+                        "name": "Crobat",
+                        "stage": "3",
+                        "evolved_from": "Golbat",
+                        "evolves_to": "",
+                        "type_1": "poison",
+                        "type_2": "flying",
+                        "evolved_from_id": "42",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "d114b29d-9ebb-4ae1-838d-a722ac2b0eaf",
                     "id": "170",
-                    "info": {}
+                    "info": {
+                        "guid": "8e35edaf-21d3-4896-916f-f75f1b1fd99d",
+                        "name": "Chinchou",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Lanturn",
+                        "type_1": "water",
+                        "type_2": "electric",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "66d227a3-6603-47c2-addb-f013a705b17d",
                     "id": "171",
-                    "info": {}
+                    "info": {
+                        "guid": "ecbc9b4f-8fb3-47cd-ae0f-f3c704ec7ba4",
+                        "name": "Lanturn",
+                        "stage": "2",
+                        "evolved_from": "Chinchou",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "electric",
+                        "evolved_from_id": "170",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "430e4ff0-fcc7-4bbd-99ac-2957516324a4",
                     "id": "172",
-                    "info": {}
+                    "info": {
+                        "guid": "7f3bde00-2ac2-4808-a9d2-e7e96237a4df",
+                        "name": "Pichu",
+                        "stage": "0",
+                        "evolved_from": "",
+                        "evolves_to": "Pikachu",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "baby"
+                        ]
+                    }
                 },
                 {
                     "guid": "5b8803e9-4385-4458-b2b7-3eb4f08464cc",
                     "id": "173",
-                    "info": {}
+                    "info": {
+                        "guid": "3c74380b-dbc0-463e-9f9d-52377a185220",
+                        "name": "Cleffa",
+                        "stage": "0",
+                        "evolved_from": "",
+                        "evolves_to": "Clefairy",
+                        "type_1": "fairy",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "baby"
+                        ]
+                    }
                 },
                 {
                     "guid": "e2226a1f-0736-471a-9c96-812bb3491698",
                     "id": "174",
-                    "info": {}
+                    "info": {
+                        "guid": "c271bdab-626e-491a-af05-2aaaf2807aa6",
+                        "name": "Igglybuff",
+                        "stage": "0",
+                        "evolved_from": "",
+                        "evolves_to": "Jigglypuff",
+                        "type_1": "normal",
+                        "type_2": "fairy",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "baby"
+                        ]
+                    }
                 },
                 {
                     "guid": "2cbb8d2f-828a-4546-88d7-8f624c0d04fc",
                     "id": "175",
-                    "info": {}
+                    "info": {
+                        "guid": "6458d4ba-d9dd-4887-9f03-af60fc942890",
+                        "name": "Togepi",
+                        "stage": "0",
+                        "evolved_from": "",
+                        "evolves_to": "Togetic",
+                        "type_1": "fairy",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "baby"
+                        ]
+                    }
                 },
                 {
                     "guid": "87d28e06-17d8-4c04-a5b6-9abd7e777ba6",
                     "id": "176",
-                    "info": {}
+                    "info": {
+                        "guid": "2be89d83-b402-4843-bfc7-8c1a78205b4d",
+                        "name": "Togetic",
+                        "stage": "2",
+                        "evolved_from": "Togepi",
+                        "evolves_to": "Togekiss",
+                        "type_1": "fairy",
+                        "type_2": "flying",
+                        "evolved_from_id": "175",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "16fb4f42-b56f-49cc-89d2-abdff2c239c3",
                     "id": "177",
-                    "info": {}
+                    "info": {
+                        "guid": "4920ea98-5ea3-4f2b-a13b-30e811441da4",
+                        "name": "Natu",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Xaru",
+                        "type_1": "psychic",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "86f11224-f0f7-4237-a90c-775074d81f01",
                     "id": "178",
-                    "info": {}
+                    "info": {
+                        "guid": "dd465a3e-18a0-42b8-82db-1a76c211ee6d",
+                        "name": "Xaru",
+                        "stage": "2",
+                        "evolved_from": "Natu",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "flying",
+                        "evolved_from_id": "177",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "0653bdbe-9107-44be-a12a-7f0968d6c3f5",
                     "id": "179",
-                    "info": {}
+                    "info": {
+                        "guid": "5201a767-e5ce-4bed-bc1d-c423622eff70",
+                        "name": "Mareep",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Flaaffy",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "2eb8eb10-fecf-4977-8813-f1c31da3fc7a",
                     "id": "180",
-                    "info": {}
+                    "info": {
+                        "guid": "91dc831c-8940-4f18-9a55-714c62561aa6",
+                        "name": "Flaaffy",
+                        "stage": "2",
+                        "evolved_from": "Mareep",
+                        "evolves_to": "Ampharos",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "evolved_from_id": "179",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "539c9cdc-1c23-4b26-9c27-73ff538a6a48",
                     "id": "181",
-                    "info": {}
+                    "info": {
+                        "guid": "92d3edf1-0a62-4688-8fc1-eab6c6917293",
+                        "name": "Ampharos",
+                        "stage": "3",
+                        "evolved_from": "Flaaffy",
+                        "evolves_to": "",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "evolved_from_id": "180",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "mega"
+                        ]
+                    }
                 },
                 {
                     "guid": "d9081523-43fa-4176-a661-e492dba0a2ef",
                     "id": "182",
-                    "info": {}
+                    "info": {
+                        "guid": "18738031-8e0f-4940-aa11-d420273a298c",
+                        "name": "Belossom",
+                        "stage": "3",
+                        "evolved_from": "Gloom",
+                        "evolves_to": "",
+                        "type_1": "grass",
+                        "type_2": "",
+                        "evolved_from_id": "44",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "c970c04f-28f0-4b64-a505-ccb5d33bc322",
                     "id": "183",
-                    "info": {}
+                    "info": {
+                        "guid": "d8509126-8a21-4c32-84fa-7592d761397b",
+                        "name": "Marill",
+                        "stage": "1",
+                        "evolved_from": "Azurill",
+                        "evolves_to": "Azumarill",
+                        "type_1": "water",
+                        "type_2": "fairy",
+                        "evolved_from_id": "298",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "6de81959-f90f-49c6-8042-0f2decd7b413",
                     "id": "184",
-                    "info": {}
+                    "info": {
+                        "guid": "77b9c31a-f593-43ea-9483-967b596ab532",
+                        "name": "Azumarill",
+                        "stage": "2",
+                        "evolved_from": "Marill",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "fairy",
+                        "evolved_from_id": "183",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "095513b7-f681-4640-a5a1-0ec227856026",
                     "id": "185",
-                    "info": {}
+                    "info": {
+                        "guid": "ed8af60e-e951-4c21-be6a-ce1e959eaecd",
+                        "name": "Sudowoodo",
+                        "stage": "1",
+                        "evolved_from": "Bonsly",
+                        "evolves_to": "",
+                        "type_1": "rock",
+                        "type_2": "",
+                        "evolved_from_id": "438",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "f0d75832-9c72-4ccb-abc1-b411280c1430",
                     "id": "186",
-                    "info": {}
+                    "info": {
+                        "guid": "1e042500-ff5d-4e68-adda-ad7d173650f5",
+                        "name": "Politoed",
+                        "stage": "3",
+                        "evolved_from": "Poliwhirl",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "",
+                        "evolved_from_id": "61",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "e8f7f994-8329-43bc-b122-2010fbf34e01",
                     "id": "187",
-                    "info": {}
+                    "info": {
+                        "guid": "77e61a1f-0441-44bf-8e2b-0a075c03539a",
+                        "name": "Hoppip",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Skiploom",
+                        "type_1": "grass",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "58fcbe12-6b0b-41d2-848c-dd06f30e4802",
                     "id": "188",
-                    "info": {}
+                    "info": {
+                        "guid": "8d2a188f-8178-47b4-a76f-0a6c33260216",
+                        "name": "Skiploom",
+                        "stage": "2",
+                        "evolved_from": "Hoppip",
+                        "evolves_to": "Jumpluff",
+                        "type_1": "grass",
+                        "type_2": "flying",
+                        "evolved_from_id": "187",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "fde3fe82-386c-45b1-9f95-1c4408fafdd2",
                     "id": "189",
-                    "info": {}
+                    "info": {
+                        "guid": "ec0c4da9-45f8-432e-93c2-df15f959a9dd",
+                        "name": "Jumpluff",
+                        "stage": "3",
+                        "evolved_from": "Skiploom",
+                        "evolves_to": "",
+                        "type_1": "grass",
+                        "type_2": "flying",
+                        "evolved_from_id": "188",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "5fdee212-92c8-4f7e-8cb0-4cbf2ab36dc8",
                     "id": "190",
-                    "info": {}
+                    "info": {
+                        "guid": "713d6a9d-e503-4ca9-be55-b73429bae5c7",
+                        "name": "Aipom",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Ambipom",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "61af0999-ad05-4267-9285-575b3a6e7442",
                     "id": "191",
-                    "info": {}
+                    "info": {
+                        "guid": "57f19be1-9bf9-4d1d-9b26-3014dacf3eef",
+                        "name": "Sunkern",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Sunflora",
+                        "type_1": "grass",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "b2e0ea64-441d-48f4-9568-8785a01fdc10",
                     "id": "192",
-                    "info": {}
+                    "info": {
+                        "guid": "8740d43f-fc77-4ec4-828e-532aaa79e09c",
+                        "name": "Sunflora",
+                        "stage": "2",
+                        "evolved_from": "Sunkern",
+                        "evolves_to": "",
+                        "type_1": "grass",
+                        "type_2": "",
+                        "evolved_from_id": "191",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "2742623c-6e9f-4c18-b58f-ee877bf8c323",
                     "id": "193",
-                    "info": {}
+                    "info": {
+                        "guid": "4657ac62-b513-4c7c-b2b9-531bed8cccae",
+                        "name": "Yanma",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Yanmega",
+                        "type_1": "bug",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "6dd0c38c-7559-4a54-a6e8-6c245bfb011d",
                     "id": "194",
-                    "info": {}
+                    "info": {
+                        "guid": "69213489-3790-4cf4-bf77-bccd8be9515f",
+                        "name": "Wooper",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Quagsire",
+                        "type_1": "water",
+                        "type_2": "ground",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "ec8fbc69-6fd2-468f-bdb3-794e4be3e692",
                     "id": "195",
-                    "info": {}
+                    "info": {
+                        "guid": "a8282d03-9be5-40cc-bb01-06c9c9ceb149",
+                        "name": "Quagsire",
+                        "stage": "2",
+                        "evolved_from": "Wooper",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "ground",
+                        "evolved_from_id": "194",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "8624324a-82c3-4466-aba5-19f00eb4447e",
                     "id": "196",
-                    "info": {}
+                    "info": {
+                        "guid": "fd99b080-dccb-4ccb-86a9-f469a69ebb58",
+                        "name": "Espeon",
+                        "stage": "2",
+                        "evolved_from": "Eevee",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "",
+                        "evolved_from_id": "133",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "964143d4-584d-4d2b-8c9e-443763bbd3b3",
                     "id": "197",
-                    "info": {}
+                    "info": {
+                        "guid": "dc4b5279-1338-4803-98be-76c28829dd1e",
+                        "name": "Umbreon",
+                        "stage": "2",
+                        "evolved_from": "Eevee",
+                        "evolves_to": "",
+                        "type_1": "dark",
+                        "type_2": "",
+                        "evolved_from_id": "133",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "1a6bf318-3e3a-42eb-8bf4-d6d534081856",
                     "id": "198",
-                    "info": {}
+                    "info": {
+                        "guid": "e1ed7a14-dcd2-4b3a-9c13-55be7f42f915",
+                        "name": "Murkrow",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Honchkrow",
+                        "type_1": "dark",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "e6a566b5-1bb1-4cb7-b2a0-f7e58c5575ac",
                     "id": "199",
-                    "info": {}
+                    "info": {
+                        "guid": "99403771-d9e7-4432-b544-8f39b9023ad5",
+                        "name": "Slowking",
+                        "stage": "2",
+                        "evolved_from": "Slowpoke",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "psychic",
+                        "evolved_from_id": "79",
+                        "regional_forms": [
+                            "galarian"
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "bb639289-9c53-4da6-8c94-168da45ce5c7",
                     "id": "200",
-                    "info": {}
+                    "info": {
+                        "guid": "7d746699-4a27-49fc-9c98-e632f8ff473d",
+                        "name": "Misdreavus",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Mismagius",
+                        "type_1": "ghost",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "6b182582-a28f-4b67-a4b2-0262278a55b9",
                     "id": "201",
-                    "info": {}
+                    "info": {
+                        "guid": "9adf3117-493e-4eae-9467-9b682174fe02",
+                        "name": "Unown",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "4ab22634-e472-4a2c-a398-e1e56ef59b34",
                     "id": "202",
-                    "info": {}
+                    "info": {
+                        "guid": "82f8dc84-bc58-4e96-9a8d-45ce944b2a3f",
+                        "name": "Wobbuffet",
+                        "stage": "1",
+                        "evolved_from": "Wynaut",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "",
+                        "evolved_from_id": "360",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "7a8ee837-e8dd-497d-951c-ca547cc65048",
                     "id": "203",
-                    "info": {}
+                    "info": {
+                        "guid": "ceb78ea0-c21e-4a06-9e90-8fc399fdd73a",
+                        "name": "Girafarig",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "psychic",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "ac0cccbb-1eb9-4c49-b71b-56e201ecd307",
                     "id": "204",
-                    "info": {}
+                    "info": {
+                        "guid": "c77168f7-ef98-4309-a9a8-bc2b42f09fcf",
+                        "name": "Pineco",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Forretress",
+                        "type_1": "bug",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "ea5aff0e-f73d-4482-a947-8c0c9327315c",
                     "id": "205",
-                    "info": {}
+                    "info": {
+                        "guid": "e6af4962-d262-4fbd-85cb-4dbfb3cd2e92",
+                        "name": "Forretress",
+                        "stage": "2",
+                        "evolved_from": "Pineco",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "steel",
+                        "evolved_from_id": "204",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "c842a460-b064-4071-ad8f-5307fc771e36",
                     "id": "206",
-                    "info": {}
+                    "info": {
+                        "guid": "ae0a0fe9-5ee1-4f66-933c-3fac20d4e0b6",
+                        "name": "Dunsparce",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "0b7b2d66-4c69-4e8d-953b-5f343664a5fd",
                     "id": "207",
-                    "info": {}
+                    "info": {
+                        "guid": "db95fb7e-4040-4e76-818b-65e860370b7d",
+                        "name": "Gligar",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Gliscor",
+                        "type_1": "ground",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "7c5b8568-bf77-4f71-91de-f51720243f3c",
                     "id": "208",
-                    "info": {}
+                    "info": {
+                        "guid": "c95ce4a5-f454-40aa-9a67-bf185fcb7bc8",
+                        "name": "Steelix",
+                        "stage": "2",
+                        "evolved_from": "Onix",
+                        "evolves_to": "",
+                        "type_1": "steel",
+                        "type_2": "ground",
+                        "evolved_from_id": "95",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "7d85f903-6345-4eed-b053-cdd6eb974ebb",
                     "id": "209",
-                    "info": {}
+                    "info": {
+                        "guid": "c4305d91-22b8-4b7f-b60d-dc8ce0b5aca0",
+                        "name": "Snubbull",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Granbull",
+                        "type_1": "fairy",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "cf896f32-736c-43eb-8c6e-4641b062a0b9",
                     "id": "210",
-                    "info": {}
+                    "info": {
+                        "guid": "4c803bc3-e880-4d92-9bae-744608f51e54",
+                        "name": "Granbull",
+                        "stage": "2",
+                        "evolved_from": "Snubbull",
+                        "evolves_to": "",
+                        "type_1": "fairy",
+                        "type_2": "",
+                        "evolved_from_id": "209",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "5b6876b1-baa6-4e9c-863e-f52e2e0992ce",
                     "id": "211",
-                    "info": {}
+                    "info": {
+                        "guid": "b1019fe1-8481-424e-85f6-24d69a4a1cfe",
+                        "name": "Qwilfish",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "poison",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            "hisuian"
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "63a7fd8a-3d2d-4c75-b838-a461caf3fbb9",
                     "id": "212",
-                    "info": {}
+                    "info": {
+                        "guid": "a7bfd077-f74c-407b-a443-1364584a761a",
+                        "name": "Scizor",
+                        "stage": "2",
+                        "evolved_from": "Scyther",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "steel",
+                        "evolved_from_id": "123",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "mega"
+                        ]
+                    }
                 },
                 {
                     "guid": "2e604660-774a-4cc5-86d5-25929d525c10",
                     "id": "213",
-                    "info": {}
+                    "info": {
+                        "guid": "2ec32c6a-f8fe-488b-9fbe-87611b2a6984",
+                        "name": "Shuckle",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "rock",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "85903251-610a-4baa-9b95-54f41b8f0d94",
                     "id": "214",
-                    "info": {}
+                    "info": {
+                        "guid": "5f5db362-a537-421f-af80-0c0567302a89",
+                        "name": "Heracross",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "bug",
+                        "type_2": "fighting",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "mega"
+                        ]
+                    }
                 },
                 {
                     "guid": "a7a94c1a-9250-4919-a4e5-3417c36bf578",
                     "id": "215",
-                    "info": {}
+                    "info": {
+                        "guid": "b8d3aeb2-5787-4354-8c16-569a4371127c",
+                        "name": "Sneasel",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Weavile",
+                        "type_1": "dark",
+                        "type_2": "ice",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            "hisuian"
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "92255651-4f96-40b6-81c2-d610bb533850",
                     "id": "216",
-                    "info": {}
+                    "info": {
+                        "guid": "f71a711e-b10f-4c97-a5ed-5f2d44ce5dc5",
+                        "name": "Teddiursa",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Ursaring",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "074a8a18-f8bc-4f45-9831-94380828c0be",
                     "id": "217",
-                    "info": {}
+                    "info": {
+                        "guid": "96203fa7-f93c-4da5-bdf5-7fd5c78c763b",
+                        "name": "Ursaring",
+                        "stage": "2",
+                        "evolved_from": "Teddiursa",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "216",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "a330ba5f-0573-4755-b57e-2f1dfc502475",
                     "id": "218",
-                    "info": {}
+                    "info": {
+                        "guid": "1b9b4a64-416e-4693-b3f3-ea9be0edb10e",
+                        "name": "Slugma",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Magcargo",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "6d42e8e0-ea26-4d9a-bdab-3e21cea3a8e7",
                     "id": "219",
-                    "info": {}
+                    "info": {
+                        "guid": "967acf6b-51da-4340-924a-474e0364ff23",
+                        "name": "Magcargo",
+                        "stage": "2",
+                        "evolved_from": "Slugma",
+                        "evolves_to": "",
+                        "type_1": "fire",
+                        "type_2": "rock",
+                        "evolved_from_id": "218",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "bf374fb0-d4a7-4dbb-8dd8-fda565b248cf",
                     "id": "220",
-                    "info": {}
+                    "info": {
+                        "guid": "383449af-62b9-4cb1-a68b-a7dfca2ef4d4",
+                        "name": "Swinub",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Piloswine",
+                        "type_1": "ice",
+                        "type_2": "ground",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "8cdc08cb-0bbc-4d9c-bcf2-e8c8a8b7557f",
                     "id": "221",
-                    "info": {}
+                    "info": {
+                        "guid": "64c9ed2a-58fc-45a6-bcfa-1641e8e83249",
+                        "name": "Piloswine",
+                        "stage": "2",
+                        "evolved_from": "Swinub",
+                        "evolves_to": "Mamoswine",
+                        "type_1": "ice",
+                        "type_2": "ground",
+                        "evolved_from_id": "220",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "f966d865-6807-43d3-abd1-54a2a1d8f6ae",
                     "id": "222",
-                    "info": {}
+                    "info": {
+                        "guid": "c200c8f7-ef43-4f43-90f1-b7a6a916551c",
+                        "name": "Corsola",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "rock",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            "galarian"
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "3b98b826-2d71-4158-a085-c1b5d5e46b1d",
                     "id": "223",
-                    "info": {}
+                    "info": {
+                        "guid": "9e5e714f-b746-43fe-9e8a-7cbc3501ef4c",
+                        "name": "Remoraid",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Octillery",
+                        "type_1": "water",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "ea0eda8a-fb53-4f3f-b559-d67f324e8c10",
                     "id": "224",
-                    "info": {}
+                    "info": {
+                        "guid": "931b854f-83a5-4805-99c4-004cea09d75f",
+                        "name": "Octillery",
+                        "stage": "2",
+                        "evolved_from": "Remoraid",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "",
+                        "evolved_from_id": "223",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "b678ddfc-8510-4dff-a6eb-3e8caaf348f0",
                     "id": "225",
-                    "info": {}
+                    "info": {
+                        "guid": "241e69e4-ec54-45b1-82e4-3e91b91f86e7",
+                        "name": "Delibird",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "ice",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "d331aac3-412c-4e3a-9705-571504775bc5",
                     "id": "226",
-                    "info": {}
+                    "info": {
+                        "guid": "34a3ca94-3a5c-4bdf-a4ca-0c5f0e329240",
+                        "name": "Mantine",
+                        "stage": "1",
+                        "evolved_from": "Mantyke",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "flying",
+                        "evolved_from_id": "458",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "9dff73d8-d17b-4e55-8ef5-feb2f902e1dc",
                     "id": "227",
-                    "info": {}
+                    "info": {
+                        "guid": "ebd6baf4-5760-429f-8d0a-49d38d2f1265",
+                        "name": "Skarmory",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "steel",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "b28118ce-a5d5-4e6e-8211-ab83c6f4a744",
                     "id": "228",
-                    "info": {}
+                    "info": {
+                        "guid": "a4e2cf9d-dbd8-45af-901a-1f52b7a6c18c",
+                        "name": "Houndour",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Houndoom",
+                        "type_1": "dark",
+                        "type_2": "fire",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "d43522ab-f872-4a40-9429-47640e92d5b1",
                     "id": "229",
-                    "info": {}
+                    "info": {
+                        "guid": "f396b287-47ed-4e1d-9ef6-209d24d92f49",
+                        "name": "Houndoom",
+                        "stage": "2",
+                        "evolved_from": "Houndour",
+                        "evolves_to": "",
+                        "type_1": "dark",
+                        "type_2": "fire",
+                        "evolved_from_id": "228",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "mega"
+                        ]
+                    }
                 },
                 {
                     "guid": "6402645d-56c6-46ac-8e1a-074b8e9ef015",
                     "id": "230",
-                    "info": {}
+                    "info": {
+                        "guid": "e865d6b0-deb2-427f-86d7-b59398cf705b",
+                        "name": "Kingdra",
+                        "stage": "3",
+                        "evolved_from": "Seadra",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "dragon",
+                        "evolved_from_id": "117",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "7661260f-cba1-4752-bae0-e95dfbbac635",
                     "id": "231",
-                    "info": {}
+                    "info": {
+                        "guid": "22aeb4d4-be70-4693-9d87-dbd625c4d953",
+                        "name": "Phanpy",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Donphan",
+                        "type_1": "ground",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "9d56a2b2-9aaa-4047-b36e-0885544cf2e9",
                     "id": "232",
-                    "info": {}
+                    "info": {
+                        "guid": "03ec7efa-e2d8-4ef3-be6b-2b7ad088a5ef",
+                        "name": "Donphan",
+                        "stage": "2",
+                        "evolved_from": "Phanpy",
+                        "evolves_to": "",
+                        "type_1": "ground",
+                        "type_2": "",
+                        "evolved_from_id": "231",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "4fc56ac9-f653-4158-8bb4-b2e4c606ecde",
                     "id": "233",
-                    "info": {}
+                    "info": {
+                        "guid": "4fa70706-1314-4204-8aaf-4f434aaadc51",
+                        "name": "Porygon2",
+                        "stage": "2",
+                        "evolved_from": "Porygon",
+                        "evolves_to": "Porygon-Z",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "137",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "1efe3b6e-8ded-4e19-b12c-eb6ba80dff2e",
                     "id": "234",
-                    "info": {}
+                    "info": {
+                        "guid": "0bec4906-034d-4424-8730-74806b552a5f",
+                        "name": "Stantler",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Wyrdeer",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "04b97c96-864d-4926-89a1-fa97cb428011",
                     "id": "235",
-                    "info": {}
+                    "info": {
+                        "guid": "95183a59-60d7-43bd-bcbe-558f4a54f1ad",
+                        "name": "Smeargle",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "87bc2044-1522-42b2-8841-cd4a7e152243",
                     "id": "236",
-                    "info": {}
+                    "info": {
+                        "guid": "c2aae9e8-ade0-4d5c-ba7f-824ea68c98dc",
+                        "name": "Tyrogue",
+                        "stage": "0",
+                        "evolved_from": "",
+                        "evolves_to": "Hitmonlee & Hitmonchan & Hitmontop",
+                        "type_1": "fighting",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "baby"
+                        ]
+                    }
                 },
                 {
                     "guid": "1e00f96d-6b45-40a2-9d83-3ac6a1964e3f",
                     "id": "237",
-                    "info": {}
+                    "info": {
+                        "guid": "f453df61-8c0a-4dc2-82e4-64adcb5ff3b4",
+                        "name": "Hitmontop",
+                        "stage": "1",
+                        "evolved_from": "Tyrogue",
+                        "evolves_to": "",
+                        "type_1": "fighting",
+                        "type_2": "",
+                        "evolved_from_id": "236",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "99691ff6-e6f7-4dff-a64a-1144eaa1d77d",
                     "id": "238",
-                    "info": {}
+                    "info": {
+                        "guid": "c66d6e8d-8ceb-4eba-9249-5d994883b6fc",
+                        "name": "Smoochum",
+                        "stage": "0",
+                        "evolved_from": "",
+                        "evolves_to": "Jynx",
+                        "type_1": "ice",
+                        "type_2": "psychic",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "baby"
+                        ]
+                    }
                 },
                 {
                     "guid": "3483f7ef-71e4-4509-b02a-09634dca65ea",
                     "id": "239",
-                    "info": {}
+                    "info": {
+                        "guid": "4d462e09-b445-4e1f-8fc0-a66bc737e7aa",
+                        "name": "Elekid",
+                        "stage": "0",
+                        "evolved_from": "",
+                        "evolves_to": "Electabuzz",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "baby"
+                        ]
+                    }
                 },
                 {
                     "guid": "0ca0a2b9-5350-404a-8370-a22e0069b477",
                     "id": "240",
-                    "info": {}
+                    "info": {
+                        "guid": "30b96152-b253-4409-b28c-067e173af5c4",
+                        "name": "Magby",
+                        "stage": "0",
+                        "evolved_from": "",
+                        "evolves_to": "Magmar",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "baby"
+                        ]
+                    }
                 },
                 {
                     "guid": "0faefdff-4587-47fc-911b-1cb269222ad5",
                     "id": "241",
-                    "info": {}
+                    "info": {
+                        "guid": "869c40b6-3cd4-4562-86d2-25ec1aaa18f4",
+                        "name": "Miltank",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "a6868c17-d976-40a6-adba-cff747367162",
                     "id": "242",
-                    "info": {}
+                    "info": {
+                        "guid": "041fc079-85c1-4f94-8c3d-9007cea42613",
+                        "name": "Blissey",
+                        "stage": "2",
+                        "evolved_from": "Chansey",
+                        "evolves_to": "",
+                        "type_1": "normal",
+                        "type_2": "",
+                        "evolved_from_id": "113",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "ab9835a2-b132-4d8f-9c2f-b69acf3516b8",
                     "id": "243",
-                    "info": {}
+                    "info": {
+                        "guid": "f6a44c98-7070-48cd-a039-de121e409898",
+                        "name": "Raikou",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "electric",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "legendary"
+                        ]
+                    }
                 },
                 {
                     "guid": "cbad6723-688d-4652-afd8-dcfa847a674d",
                     "id": "244",
-                    "info": {}
+                    "info": {
+                        "guid": "36262ce5-9405-47ac-8b69-6ab3b5f0164b",
+                        "name": "Entei",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "fire",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "legendary"
+                        ]
+                    }
                 },
                 {
                     "guid": "218332b9-2695-4065-8ccf-fae4ce21e740",
                     "id": "245",
-                    "info": {}
+                    "info": {
+                        "guid": "826c2a7c-185c-424a-87ed-e4bc6feb6957",
+                        "name": "Suicune",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "water",
+                        "type_2": "",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "legendary"
+                        ]
+                    }
                 },
                 {
                     "guid": "4667d129-ca00-488f-9a70-e6ae8a7379af",
                     "id": "246",
-                    "info": {}
+                    "info": {
+                        "guid": "562d71df-91eb-4ef9-9e47-13c3e0691126",
+                        "name": "Larvitar",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "Pupitar",
+                        "type_1": "rock",
+                        "type_2": "ground",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "6fa83bc2-7f86-4778-8eae-915cb3a347c5",
                     "id": "247",
-                    "info": {}
+                    "info": {
+                        "guid": "86b35601-58a9-4c08-a408-76dd3690b59c",
+                        "name": "Pupitar",
+                        "stage": "2",
+                        "evolved_from": "Larvitar",
+                        "evolves_to": "Tyranitar",
+                        "type_1": "rock",
+                        "type_2": "ground",
+                        "evolved_from_id": "246",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            ""
+                        ]
+                    }
                 },
                 {
                     "guid": "00663b9d-a4ff-452b-9a8b-527efe7e21f0",
                     "id": "248",
-                    "info": {}
+                    "info": {
+                        "guid": "0aac116a-bdba-4e89-b58c-1d826c4e991c",
+                        "name": "Tyranitar",
+                        "stage": "3",
+                        "evolved_from": "Pupitar",
+                        "evolves_to": "",
+                        "type_1": "rock",
+                        "type_2": "dark",
+                        "evolved_from_id": "247",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "mega"
+                        ]
+                    }
                 },
                 {
                     "guid": "844bc5db-2d92-4d9f-b442-d5ff320df32c",
                     "id": "249",
-                    "info": {}
+                    "info": {
+                        "guid": "220f8711-42a7-4aad-9606-4d5772050780",
+                        "name": "Lugia",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "legendary"
+                        ]
+                    }
                 },
                 {
                     "guid": "c0170012-0b2d-448d-9af2-f124d7b4e440",
                     "id": "250",
-                    "info": {}
+                    "info": {
+                        "guid": "1bcd625c-79e3-4c05-bbd5-6eacbcf66356",
+                        "name": "Ho-oh",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "fire",
+                        "type_2": "flying",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "legendary"
+                        ]
+                    }
                 },
                 {
                     "guid": "0a976a56-bc51-4be0-8651-c5289969b382",
                     "id": "251",
-                    "info": {}
+                    "info": {
+                        "guid": "2f0b3862-7b88-4b4e-a955-cd086c4137fd",
+                        "name": "Celebi",
+                        "stage": "1",
+                        "evolved_from": "",
+                        "evolves_to": "",
+                        "type_1": "psychic",
+                        "type_2": "grass",
+                        "evolved_from_id": "",
+                        "regional_forms": [
+                            ""
+                        ],
+                        "is_form": [
+                            "mythical"
+                        ]
+                    }
                 },
                 {
                     "guid": "0a6fc330-0dde-4354-b243-5f69200e4314",
@@ -6968,7 +8469,7 @@
                     "options": "galarian, alolan, hisuian",
                     "defaultValue": "",
                     "iconName": "newMulti",
-                    "displayType": "vertical",
+                    "displayType": "horizontal",
                     "configurable": {
                         "name": "text",
                         "description": "text",
@@ -6991,7 +8492,7 @@
                     "options": "legendary, mythical, mega, primal, baby",
                     "defaultValue": "",
                     "iconName": "newMulti",
-                    "displayType": "vertical",
+                    "displayType": "horizontal",
                     "configurable": {
                         "name": "text",
                         "description": "text",
@@ -7012,6 +8513,18 @@
             "isProps": true,
             "parentSheetGUID": "39dee02f-3bfa-4aee-886e-34d3e79e17c9",
             "columnGUID": "4d049dd2-b9ae-44ee-a87c-9acba501a538"
+        },
+        {
+            "name": "new properties",
+            "description": "props@39dee02f-3bfa-4aee-886e-34d3e79e17c9",
+            "displayColumn": "id",
+            "guid": "4a0357b5-5f3f-43a4-aeb2-707dedcf6a4e",
+            "columns": [],
+            "lines": [],
+            "hidden": true,
+            "isProps": true,
+            "parentSheetGUID": "39dee02f-3bfa-4aee-886e-34d3e79e17c9",
+            "columnGUID": "1bee28a9-6847-49eb-a4d6-ba7860b2de09"
         }
     ]
 }

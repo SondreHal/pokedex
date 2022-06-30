@@ -7,7 +7,7 @@ const previousEvolution = document.querySelector(".previous-evolution");
 //Function to fetch a pokemon's Name, Type, Sprite & ID based on a random number between 1-151
 async function Pokemon() {
 	//Random number 1-151
-	const randomNumber = Math.floor(Math.random() * 151 + 1);
+	const randomNumber = Math.floor(Math.random() * 251 + 1);
 
 	//Fetches JSON file with pokemon information
 	const fetchData = await fetch("pokemon.dpo");
@@ -47,7 +47,7 @@ async function Pokemon() {
 
 	//Function to figure out a pokemon's stage in an evolution if it has any, and returns it
 	function evolve() {
-		if (pokemonInfo.stage === "1") {
+		if (pokemonInfo.stage === "1" || pokemonInfo.stage === "0") {
 			return "_basic";
 		} else if (pokemonInfo.stage === "2") {
 			return "_stage_1";
@@ -58,7 +58,7 @@ async function Pokemon() {
 	evolve();
 
 	function background() {
-		if (pokemonInfo.stage === "1") {
+		if (pokemonInfo.stage === "1" || pokemonInfo.stage === "0") {
 			return (previousEvolution.style.backgroundColor = "rgba(0,0,0,0)");
 		} else if (pokemonInfo.stage === "2") {
 			return (previousEvolution.style.backgroundColor = "rgba(0,0,0,0.50)");
