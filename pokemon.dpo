@@ -38,7 +38,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -58,7 +59,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -78,7 +80,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "1"
                     }
                 },
                 {
@@ -98,7 +101,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "2"
                     }
                 },
                 {
@@ -118,7 +122,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -138,7 +143,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "4"
                     }
                 },
                 {
@@ -158,7 +164,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "5"
                     }
                 },
                 {
@@ -178,7 +185,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -198,7 +206,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "7"
                     }
                 },
                 {
@@ -218,7 +227,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "8"
                     }
                 },
                 {
@@ -238,7 +248,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -258,7 +269,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "10"
                     }
                 },
                 {
@@ -278,7 +290,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "11"
                     }
                 },
                 {
@@ -298,7 +311,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -318,7 +332,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "13"
                     }
                 },
                 {
@@ -338,7 +353,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "14"
                     }
                 },
                 {
@@ -358,7 +374,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -378,7 +395,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "16"
                     }
                 },
                 {
@@ -398,7 +416,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "17"
                     }
                 },
                 {
@@ -418,7 +437,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -438,7 +458,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "19"
                     }
                 },
                 {
@@ -458,7 +479,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -467,7 +489,7 @@
                     "info": {
                         "guid": "581a4523-0324-4bdf-b693-cdb482287016",
                         "name": "Fearow",
-                        "stage": "",
+                        "stage": "2",
                         "evolved_from": "Spearow",
                         "evolves_to": "",
                         "type_1": "normal",
@@ -478,7 +500,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "21"
                     }
                 },
                 {
@@ -498,7 +521,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -518,7 +542,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "23"
                     }
                 },
                 {
@@ -538,7 +563,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "172"
                     }
                 },
                 {
@@ -558,7 +584,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "25"
                     }
                 },
                 {
@@ -578,7 +605,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -598,7 +626,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "27"
                     }
                 },
                 {
@@ -618,7 +647,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -638,7 +668,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "29"
                     }
                 },
                 {
@@ -658,7 +689,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "30"
                     }
                 },
                 {
@@ -678,7 +710,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -698,7 +731,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "32"
                     }
                 },
                 {
@@ -718,7 +752,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "33"
                     }
                 },
                 {
@@ -738,7 +773,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "173"
                     }
                 },
                 {
@@ -758,7 +794,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "35"
                     }
                 },
                 {
@@ -778,7 +815,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -798,7 +836,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "37"
                     }
                 },
                 {
@@ -818,7 +857,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "174"
                     }
                 },
                 {
@@ -838,7 +878,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "39"
                     }
                 },
                 {
@@ -858,7 +899,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -878,7 +920,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "41"
                     }
                 },
                 {
@@ -898,7 +941,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -918,7 +962,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "43"
                     }
                 },
                 {
@@ -938,7 +983,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "44"
                     }
                 },
                 {
@@ -958,7 +1004,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -978,7 +1025,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "46"
                     }
                 },
                 {
@@ -998,7 +1046,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1018,7 +1067,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "48"
                     }
                 },
                 {
@@ -1038,7 +1088,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1058,7 +1109,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "50"
                     }
                 },
                 {
@@ -1078,7 +1130,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": true,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1098,7 +1151,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": true,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "52"
                     }
                 },
                 {
@@ -1118,7 +1172,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1138,7 +1193,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "54"
                     }
                 },
                 {
@@ -1158,7 +1214,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1178,7 +1235,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "56"
                     }
                 },
                 {
@@ -1198,7 +1256,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": true
+                        "hisuian": true,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1218,7 +1277,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": true
+                        "hisuian": true,
+                        "evolved_from_id": "58"
                     }
                 },
                 {
@@ -1238,7 +1298,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1258,7 +1319,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "60"
                     }
                 },
                 {
@@ -1278,7 +1340,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "61"
                     }
                 },
                 {
@@ -1298,7 +1361,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1318,7 +1382,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "63"
                     }
                 },
                 {
@@ -1338,7 +1403,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "64"
                     }
                 },
                 {
@@ -1358,7 +1424,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1378,7 +1445,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "66"
                     }
                 },
                 {
@@ -1398,7 +1466,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "67"
                     }
                 },
                 {
@@ -1418,7 +1487,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1438,7 +1508,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "69"
                     }
                 },
                 {
@@ -1458,7 +1529,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "70"
                     }
                 },
                 {
@@ -1478,7 +1550,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1498,7 +1571,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "72"
                     }
                 },
                 {
@@ -1518,7 +1592,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": true,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1538,7 +1613,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": true,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "74"
                     }
                 },
                 {
@@ -1558,7 +1634,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": true,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "75"
                     }
                 },
                 {
@@ -1578,7 +1655,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1598,7 +1676,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "77"
                     }
                 },
                 {
@@ -1618,7 +1697,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1638,7 +1718,8 @@
                         "galar": true,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "79"
                     }
                 },
                 {
@@ -1658,7 +1739,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1678,7 +1760,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "81"
                     }
                 },
                 {
@@ -1698,7 +1781,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1718,7 +1802,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1738,7 +1823,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "84"
                     }
                 },
                 {
@@ -1758,7 +1844,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1778,7 +1865,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "86"
                     }
                 },
                 {
@@ -1798,7 +1886,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": true,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1818,7 +1907,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": true,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "88"
                     }
                 },
                 {
@@ -1838,7 +1928,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1858,7 +1949,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "90"
                     }
                 },
                 {
@@ -1878,7 +1970,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1898,7 +1991,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "92"
                     }
                 },
                 {
@@ -1918,7 +2012,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "93"
                     }
                 },
                 {
@@ -1938,7 +2033,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1958,7 +2054,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -1978,7 +2075,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "96"
                     }
                 },
                 {
@@ -1998,7 +2096,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2018,7 +2117,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "98"
                     }
                 },
                 {
@@ -2038,7 +2138,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": true
+                        "hisuian": true,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2058,7 +2159,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": true
+                        "hisuian": true,
+                        "evolved_from_id": "100"
                     }
                 },
                 {
@@ -2078,7 +2180,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2098,7 +2201,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": true,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "102"
                     }
                 },
                 {
@@ -2118,7 +2222,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2138,7 +2243,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": true,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "104"
                     }
                 },
                 {
@@ -2158,7 +2264,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "236"
                     }
                 },
                 {
@@ -2178,7 +2285,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "236"
                     }
                 },
                 {
@@ -2198,7 +2306,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2218,7 +2327,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2238,7 +2348,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "109"
                     }
                 },
                 {
@@ -2258,7 +2369,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2278,7 +2390,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "111"
                     }
                 },
                 {
@@ -2298,7 +2411,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "440"
                     }
                 },
                 {
@@ -2318,7 +2432,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2338,7 +2453,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2358,7 +2474,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2378,7 +2495,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "116"
                     }
                 },
                 {
@@ -2398,7 +2516,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2418,7 +2537,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "118"
                     }
                 },
                 {
@@ -2438,7 +2558,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2458,7 +2579,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "120"
                     }
                 },
                 {
@@ -2478,7 +2600,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "439"
                     }
                 },
                 {
@@ -2498,7 +2621,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2518,7 +2642,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "238"
                     }
                 },
                 {
@@ -2538,7 +2663,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "239"
                     }
                 },
                 {
@@ -2558,7 +2684,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "240"
                     }
                 },
                 {
@@ -2578,7 +2705,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2598,7 +2726,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2618,7 +2747,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2638,7 +2768,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "129"
                     }
                 },
                 {
@@ -2658,7 +2789,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2678,7 +2810,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2698,7 +2831,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2718,7 +2852,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "133"
                     }
                 },
                 {
@@ -2738,7 +2873,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "133"
                     }
                 },
                 {
@@ -2758,7 +2894,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "133"
                     }
                 },
                 {
@@ -2778,7 +2915,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2798,7 +2936,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2818,7 +2957,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "138"
                     }
                 },
                 {
@@ -2838,7 +2978,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2858,7 +2999,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "140"
                     }
                 },
                 {
@@ -2878,7 +3020,8 @@
                         "galar": false,
                         "mega": true,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2898,7 +3041,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "446"
                     }
                 },
                 {
@@ -2918,7 +3062,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2938,7 +3083,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2958,7 +3104,8 @@
                         "galar": true,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2978,7 +3125,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -2998,7 +3146,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "147"
                     }
                 },
                 {
@@ -3018,7 +3167,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": "148"
                     }
                 },
                 {
@@ -3038,7 +3188,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 },
                 {
@@ -3058,7 +3209,8 @@
                         "galar": false,
                         "mega": false,
                         "alolan": false,
-                        "hisuian": false
+                        "hisuian": false,
+                        "evolved_from_id": ""
                     }
                 }
             ],
@@ -3255,6 +3407,19 @@
                         "name": "text",
                         "description": "text",
                         "defaultValue": "bool"
+                    }
+                },
+                {
+                    "typeStr": "text",
+                    "guid": "bf3c2cb2-0434-408f-8fc4-8b9078ced151",
+                    "name": "evolved_from_id",
+                    "description": "",
+                    "defaultValue": "",
+                    "iconName": "newText",
+                    "configurable": {
+                        "name": "text",
+                        "description": "text",
+                        "defaultValue": "text"
                     }
                 }
             ],

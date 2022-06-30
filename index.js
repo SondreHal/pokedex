@@ -60,9 +60,8 @@ async function Pokemon() {
 	function renderPreviousEvolution() {
 		if (newData.sheets[0].lines[randomNumber].info.stage > 1) {
 			previousEvolution.innerHTML =
-				"<img src=https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/" +
-				(randomNumber - 1) +
-				".png>";
+				"<img src=official-artwork/" + randomNumber + ".png>";
+			previousEvolution.id = changeToMainType();
 		} else {
 			previousEvolution.innerHTML = "";
 		}
@@ -75,10 +74,7 @@ async function Pokemon() {
 	//Render pokemon's name
 	pokeName.textContent = findPokeName;
 	//Render pokemon's sprite
-	pokeSprite.innerHTML =
-		"<img src=https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/" +
-		randomNumber +
-		".png>";
+	pokeSprite.innerHTML = "<img src=official-artwork/" + randomNumber + ".png>";
 	//Render pokemon's id
 	pokeId.textContent = "#" + newData.sheets[0].lines[randomNumber].id;
 

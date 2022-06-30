@@ -21,39 +21,15 @@ body {
 	justify-content: space-around;
 	/*Box model stuff*/
 	height: 100%;
-	background-color: black;
-}
-
-h1 {
-	margin: 0;
-	/*Display stuff*/
-	grid-column-start: 2;
+	background-color: rgb(21, 22, 26);
 	/*Typography stuff*/
 	font-family: Gill-medium;
-	font-size: 26px;
-	text-align: center;
 }
 
-h2 {
-	/*Box model stuff*/
-	margin: auto 3px 0px auto;
-	/*Typography stuff*/
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-	font-size: 15px;
-}
-
-p {
-	/*Box model stuff*/
-	margin: 0 auto;
-	/*Typography stuff*/
-	color: white;
-}
-
-.center {
+.flex-column {
 	/*Display stuff*/
 	display: flex;
 	flex-direction: column;
-	justify-content: space-around;
 }
 
 .pokemoncard {
@@ -61,221 +37,290 @@ p {
 	display: flex;
 	flex-direction: column;
 	/*Box model stuff*/
-	/* width: 21.5em;
-	height: 30.5em; */
 	width: 420px;
 	height: 590px;
-	margin: 10px auto;
-	padding: 0;
-	border-radius: 25px;
-	/* border: 10px solid rgb(255, 215, 96);
-	border-radius: 8px; */
-	background-color: rgba(128, 128, 128, 0);
+	margin: 0 auto 30px;
+	border-radius: 22px;
 }
 
-.flex {
+.grid {
 	/*Display stuff*/
-	display: flex;
-	grid-template-columns: 1fr 1fr 1fr;
+	display: grid;
+	grid-template-columns: 49px 5px 1fr;
+	grid-template-rows: 45px;
 	align-items: center;
-	justify-content: space-between;
+	justify-content: start;
 	/*Box model stuff*/
 	margin: 20px 20px 0;
 }
 
-.pokename {
-	margin-left: 85px;
+.previous-evolution {
+	position: relative;
+	border-radius: 50px;
+	top: 22px;
+	left: -1px;
+	width: 54px;
+	height: 50px;
+	/* background: linear-gradient(-45deg, #ffffff85, #000000); */
+	background-color: rgba(0, 0, 0, 0.507);
 }
 
 .previous-evolution img {
-	position: absolute;
-	top: 47px;
-	margin-left: 3px;
+	/*Positioning stuff*/
+	position: relative;
+	top: 2px;
+	left: 5px;
+	/*Box model stuff*/
 	width: 45px;
 	height: 45px;
+	margin: auto;
 	border-radius: 50px;
 }
 
-img {
+.pokename {
 	/*Display stuff*/
-	display: flex;
+	grid-column-start: 3;
 	/*Box model stuff*/
-	height: 14.5rem;
-	margin: auto;
+	margin-left: 25px;
+	margin-top: -12px;
+	/*Typography stuff*/
+	font-size: 26px;
 }
 
 .pokesprite {
+	/*Display stuff*/
+	display: flex;
 	/*Box model stuff*/
-	height: 14.5rem;
 	width: 349px;
-	/* background-color: rgb(94, 191, 239); */
+	margin-top: -5px;
 	/*Miscellaneous*/
 	margin-inline: auto;
-	margin-top: 9.5px;
+}
+
+.pokesprite img {
+	/*Box model stuff*/
+	height: 232px;
+	margin: auto;
 }
 
 .pokeid {
-	margin-right: 20px;
-	margin-bottom: 18px;
+	/*Box model stuff*/
+	margin: auto 20px 19px auto;
+	/*Typography stuff*/
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	font-size: 15px;
 }
 
 button {
 	/*Box model stuff*/
 	margin: auto;
-	padding: 5px 10px;
+	padding: 8px 20px;
+	border: none;
+	border-radius: 5px;
+	background-color: rgb(206, 206, 206);
 	/*Typography stuff*/
+	font-size: large;
 	font-weight: bold;
+	color: rgb(21, 22, 26);
+}
+
+button:hover {
+	background-color: rgb(231, 231, 231);
+	cursor: pointer;
+}
+
+button:active {
+	background-color: rgb(206, 206, 206);
 }
 
 #colorless_basic {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/colorless_basic.png"),
 		linear-gradient(-45deg, #ffffff, #d3d3d3, #ffffff, #d3d3d3, #d3d3d3, #ffffff);
 }
 
 #colorless_stage_1 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/colorless_stage_1.png"),
 		linear-gradient(-45deg, #ffffff, #d3d3d3, #ffffff, #d3d3d3, #d3d3d3, #ffffff);
 }
 
 #colorless_stage_2 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/colorless_stage_2.png"),
 		linear-gradient(-45deg, #ffffff, #d3d3d3, #ffffff, #d3d3d3, #d3d3d3, #ffffff);
 }
 
 #darkness_basic {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/darkness_basic.png"),
 		linear-gradient(-45deg, #2f4d4b, #142221, #2f4d4b, #142221, #142221, #2f4d4b);
+	/*Typography stuff*/
 	color: white;
 }
 
 #darkness_stage_1 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/darkness_stage_1.png"),
 		linear-gradient(-45deg, #2f4d4b, #142221, #2f4d4b, #142221, #142221, #2f4d4b);
+	/*Typography stuff*/
 	color: white;
 }
 
 #darkness_stage_2 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/darkness_stage_2.png"),
 		linear-gradient(-45deg, #2f4d4b, #142221, #2f4d4b, #142221, #142221, #2f4d4b);
+	/*Typography stuff*/
 	color: white;
 }
 
 #dragon_basic {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/dragon_basic.png"),
 		linear-gradient(-45deg, #d8ff28, #df9d25, #d8ff28, #df9d25, #df9d25, #d8ff28);
 }
 
 #dragon_stage_1 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/dragon_stage_1.png"),
 		linear-gradient(-45deg, #d8ff28, #df9d25, #d8ff28, #df9d25, #df9d25, #d8ff28);
 }
 
 #dragon_stage_2 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/dragon_stage_2.png"),
 		linear-gradient(-45deg, #d8ff28, #df9d25, #d8ff28, #df9d25, #df9d25, #d8ff28);
 }
 
 #fighting_basic {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/fighting_basic.png"),
 		linear-gradient(-45deg, #da9974, #cc7c47, #da9974, #cc7c47, #cc7c47, #da9974);
 }
 
 #fighting_stage_1 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/fighting_stage_1.png"),
 		linear-gradient(-45deg, #da9974, #cc7c47, #da9974, #cc7c47, #cc7c47, #da9974);
 }
 
 #fighting_stage_2 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/fighting_stage_2.png"),
 		linear-gradient(-45deg, #da9974, #cc7c47, #da9974, #cc7c47, #cc7c47, #da9974);
 }
 
 #fire_basic {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/fire_basic.png"),
 		linear-gradient(-45deg, #ff9838, #f05728, #ff9838, #f05728, #f05728, #ff9838);
 }
 
 #fire_stage_1 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/fire_stage_1.png"),
 		linear-gradient(-45deg, #ff9838, #f05728, #ff9838, #f05728, #f05728, #ff9838);
 }
 
 #fire_stage_2 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/fire_stage_2.png"),
 		linear-gradient(-45deg, #ff9838, #f05728, #ff9838, #f05728, #f05728, #ff9838);
 }
 
 #grass_basic {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/grass_basic.png"),
 		linear-gradient(-45deg, #ccff3e, #85d826, #ccff3e, #85d826, #85d826, #ccff3e);
 }
 
 #grass_stage_1 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/grass_stage_1.png"),
 		linear-gradient(-45deg, #ccff3e, #85d826, #ccff3e, #85d826, #85d826, #ccff3e);
 }
 
 #grass_stage_2 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/grass_stage_2.png"),
 		linear-gradient(-45deg, #ccff3e, #85d826, #ccff3e, #85d826, #85d826, #ccff3e);
 }
 
 #lightning_basic {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/lightning_basic.png"),
 		linear-gradient(-45deg, #fff066, #e4cd00, #fff066, #e4cd00, #e4cd00, #fff066);
 }
 
 #lightning_stage_1 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/lightning_stage_1.png"),
 		linear-gradient(-45deg, #fff066, #e4cd00, #fff066, #e4cd00, #e4cd00, #fff066);
 }
 
 #lightning_stage_2 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/lightning_stage_2.png"),
 		linear-gradient(-45deg, #fff066, #e4cd00, #fff066, #e4cd00, #e4cd00, #fff066);
 }
 
 #metal_basic {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/metal_basic.png"),
 		linear-gradient(-45deg, #d6d6d6, #757575, #d6d6d6, #757575, #757575, #d6d6d6);
 }
 
 #metal_stage_1 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/metal_stage_1.png"),
 		linear-gradient(-45deg, #d6d6d6, #757575, #d6d6d6, #757575, #757575, #d6d6d6);
 }
 
 #metal_stage_2 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/metal_stage_2.png"),
 		linear-gradient(-45deg, #d6d6d6, #757575, #d6d6d6, #757575, #757575, #d6d6d6);
 }
 
 #psychic_basic {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/psychic_basic.png"),
 		linear-gradient(-45deg, #e09ac9, #914fa1, #e09ac9, #914fa1, #914fa1, #e09ac9);
 }
 
 #psychic_stage_1 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/psychic_stage_1.png"),
 		linear-gradient(-45deg, #e09ac9, #914fa1, #e09ac9, #914fa1, #914fa1, #e09ac9);
 }
 
 #psychic_stage_2 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/psychic_stage_2.png"),
 		linear-gradient(-45deg, #e09ac9, #914fa1, #e09ac9, #914fa1, #914fa1, #e09ac9);
 }
 
 #water_basic {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/water_basic.png"),
 		linear-gradient(-45deg, #82e9e9, #28c8f0, #82e9e9, #28c8f0, #28c8f0, #82e9e9);
 }
 
 #water_stage_1 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/water_stage_1.png"),
 		linear-gradient(-45deg, #82e9e9, #28c8f0, #82e9e9, #28c8f0, #28c8f0, #82e9e9);
 }
 
 #water_stage_2 {
+	/*Box model stuff*/
 	background-image: url("main_types_card_templates/water_stage_2.png"),
 		linear-gradient(-45deg, #82e9e9, #28c8f0, #82e9e9, #28c8f0, #28c8f0, #82e9e9);
+}
+
+@media (max-height: 1000px) {
+	body {
+		transform: scale(0.85);
+	}
 }
