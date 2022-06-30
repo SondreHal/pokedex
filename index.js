@@ -10,16 +10,16 @@ async function Pokemon() {
 	const randomNumber = Math.floor(Math.random() * 151 + 1);
 
 	//Fetches JSON file with pokemon information
-	const fetchNew = await fetch("pokemon.dpo");
-	const newData = await fetchNew.json();
-
-	console.log(newData.sheets[0].lines[randomNumber]);
+	const fetchData = await fetch("pokemon.dpo");
+	const jsonInfo = await fetchData.json();
+	const pokemonInfo = jsonInfo.sheets[0].lines[randomNumber].info;
+	console.log(jsonInfo);
 
 	//Finds pokemon's name
-	const findPokeName = newData.sheets[0].lines[randomNumber].info.name;
+	const findPokeName = pokemonInfo.name;
 	//Finds pokemon's type
-	const findSubType1 = newData.sheets[0].lines[randomNumber].info.type_1;
-	const findSubType2 = newData.sheets[0].lines[randomNumber].info.type_2;
+	const findSubType1 = pokemonInfo.type_1;
+	const findSubType2 = pokemonInfo.type_2;
 
 	//Function that changes the sub type of the pokemon to the main type (Trading Card Game)
 	function changeToMainType() {
@@ -47,9 +47,9 @@ async function Pokemon() {
 
 	//Function to figure out a pokemon's stage in an evolution if it has any, and returns it
 	function evolve() {
-		if (newData.sheets[0].lines[randomNumber].info.stage === "1") {
+		if (pokemonInfo.stage === "1") {
 			return "_basic";
-		} else if (newData.sheets[0].lines[randomNumber].info.stage === "2") {
+		} else if (pokemonInfo.stage === "2") {
 			return "_stage_1";
 		} else {
 			return "_stage_2";
@@ -57,10 +57,22 @@ async function Pokemon() {
 	}
 	evolve();
 
+	function background() {
+		if (pokemonInfo.stage === "1") {
+			return (previousEvolution.style.backgroundColor = "rgba(0,0,0,0)");
+		} else if (pokemonInfo.stage === "2") {
+			return (previousEvolution.style.backgroundColor = "rgba(0,0,0,0.50)");
+		} else {
+			return (previousEvolution.style.backgroundColor = "rgba(0,0,0,0.50)");
+		}
+	}
+
+	background();
+
 	function renderPreviousEvolution() {
-		if (newData.sheets[0].lines[randomNumber].info.stage > 1) {
+		if (pokemonInfo.stage > 1) {
 			previousEvolution.innerHTML =
-				"<img src=official-artwork/" + randomNumber + ".png>";
+				"<img src=official-artwork/" + pokemonInfo.evolved_from_id + ".png>";
 			previousEvolution.id = changeToMainType();
 		} else {
 			previousEvolution.innerHTML = "";
@@ -76,7 +88,7 @@ async function Pokemon() {
 	//Render pokemon's sprite
 	pokeSprite.innerHTML = "<img src=official-artwork/" + randomNumber + ".png>";
 	//Render pokemon's id
-	pokeId.textContent = "#" + newData.sheets[0].lines[randomNumber].id;
+	pokeId.textContent = "#" + jsonInfo.sheets[0].lines[randomNumber].id;
 
 	console.log("Sub Type 1: " + findSubType1);
 	console.log("Sub Type 2: " + findSubType2);

@@ -9,21 +9,39 @@
 	src: url(fonts/Gill\ Sans\ Medium.otf);
 }
 
-html {
-	/*Box model stuff*/
-	height: 100%;
-}
-
 body {
 	/*Display stuff*/
 	display: flex;
 	flex-direction: column;
-	justify-content: space-around;
 	/*Box model stuff*/
-	height: 100%;
 	background-color: rgb(21, 22, 26);
 	/*Typography stuff*/
 	font-family: Gill-medium;
+}
+
+.active {
+	/*Box model stuff*/
+	background-color: rgb(231, 231, 231);
+	color: rgb(21, 22, 26);
+}
+
+.nav-item {
+	list-style-type: none;
+	background-color: rgb(206, 206, 206);
+}
+
+.nav-item a {
+	/*Display stuff*/
+	display: block;
+	/*Box model stuff*/
+	padding: 14px 16px;
+	/*Typography stuff*/
+	text-decoration: none;
+	color: rgb(21, 22, 26);
+}
+.nav-item a:hover {
+	/*Box model stuff*/
+	background-color: rgb(231, 231, 231);
 }
 
 .flex-column {
@@ -39,7 +57,7 @@ body {
 	/*Box model stuff*/
 	width: 420px;
 	height: 590px;
-	margin: 0 auto 30px;
+	margin: -100px auto 30px;
 	border-radius: 22px;
 }
 
@@ -61,8 +79,6 @@ body {
 	left: -1px;
 	width: 54px;
 	height: 50px;
-	/* background: linear-gradient(-45deg, #ffffff85, #000000); */
-	background-color: rgba(0, 0, 0, 0.507);
 }
 
 .previous-evolution img {
@@ -99,7 +115,8 @@ body {
 
 .pokesprite img {
 	/*Box model stuff*/
-	height: 232px;
+	max-height: 232px;
+	width: auto;
 	margin: auto;
 }
 
@@ -311,6 +328,8 @@ button:active {
 	/*Box model stuff*/
 	background-image: url("main_types_card_templates/water_stage_1.png"),
 		linear-gradient(-45deg, #82e9e9, #28c8f0, #82e9e9, #28c8f0, #28c8f0, #82e9e9);
+	max-width: 420px;
+	max-height: 590px;
 }
 
 #water_stage_2 {
@@ -320,7 +339,7 @@ button:active {
 }
 
 @media (max-height: 1000px) {
-	body {
-		transform: scale(0.85);
+	.flex-column {
+		transform: scale(0.7);
 	}
 }
