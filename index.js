@@ -15,6 +15,13 @@ async function Pokemon() {
 	const pokemonInfo = jsonInfo.sheets[0].lines[randomNumber].info;
 	console.log(pokemonInfo);
 
+	//Puts path to find regional forms in a variable
+	const hasForm = pokemonInfo.regional_forms;
+
+	//Checks if a pokemon has a regional form
+	const alolanForm = hasForm.includes("alolan") ? "alolan" : false;
+	const galarianForm = hasForm.includes("galarian") ? "galarian" : false;
+
 	//Finds pokemon's name
 	const findPokeName = pokemonInfo.name;
 	//Finds pokemon's type
