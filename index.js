@@ -13,7 +13,16 @@ async function Pokemon() {
 	const fetchData = await fetch("pokemon.dpo");
 	const jsonInfo = await fetchData.json();
 	const pokemonInfo = jsonInfo.sheets[0].lines[randomNumber].info;
-	console.log(pokemonInfo);
+
+	for (let i = 0; i < 251; i++) {
+		const allPokemonInfo = jsonInfo.sheets[0].lines[i];
+
+		if (allPokemonInfo.info.regional_forms.includes("alolan")) {
+			console.log("#" + allPokemonInfo.id + ": " + allPokemonInfo.info.name);
+		} else {
+			console.log("");
+		}
+	}
 
 	//Puts path to find regional forms in a variable
 	const hasForm = pokemonInfo.regional_forms;

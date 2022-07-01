@@ -343,4 +343,7 @@ button:active {
 	.flex-column {
 		transform: scale(0.7);
 	}
+	.pokemoncard {
+		margin-top: -100px;
+	}
 }
